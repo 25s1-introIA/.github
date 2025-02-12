@@ -3,11 +3,31 @@
 ## Objetivo da Aula
 Fornecer uma visão geral sobre Inteligência Artificial (IA), sua origem, evolução e o estado da arte (SOTA), destacando principais avanços e aplicações.
 
-## Duração Estimada: 1h30
+<!--## Duração Estimada: 1h30-->
+
+
+![Narrow vs General](./imgs/img_1.png)
+
+A imagem representa a **fusão entre um cérebro humano e circuitos eletrônicos**, simbolizando a integração entre a inteligência biológica e a artificial. Aqui estão os principais conceitos que essa representação transmite:  
+
+### 🧠 **Cérebro Humano**  
+- Simboliza a **inteligência natural**, incluindo criatividade, emoções, pensamento crítico e aprendizado adaptativo.  
+- Representa o funcionamento do cérebro humano, que aprende por meio da experiência e interações sociais.  
+
+### ⚡ **Circuitos Eletrônicos**  
+- Representam a **inteligência artificial**, baseada em algoritmos, redes neurais e aprendizado de máquina.  
+- Mostram a capacidade da tecnologia de processar grandes quantidades de dados rapidamente e tomar decisões baseadas em padrões.  
+
+### 🔗 **Integração: Cognição Humana + Tecnologia**  
+- Destaca como a IA pode ampliar as habilidades humanas, auxiliando na tomada de decisão, automação de tarefas e otimização de processos.  
+- Ilustra conceitos como **Neurotecnologia**, **IA Cognitiva** e **Interface Cérebro-Computador (BCI - Brain-Computer Interface)**.  
+- Sugere um futuro onde humanos e máquinas trabalham juntos de forma complementar, potencializando o conhecimento e a inovação.  
+
+Se precisar de mais detalhes ou quiser um foco específico, me avise! 🚀
 
 ---
 
-## 1. O que é Inteligência Artificial? (20 min)
+## 1. O que é Inteligência Artificial? <!--(20 min)-->
 
 ### Definição
 - Inteligência Artificial (IA) refere-se a sistemas computacionais que podem realizar tarefas que normalmente requerem inteligência humana.
@@ -18,6 +38,39 @@ Fornecer uma visão geral sobre Inteligência Artificial (IA), sua origem, evolu
 - **IA Forte (General AI):** Capaz de executar qualquer tarefa intelectual que um humano possa realizar (ainda teórica).
 - **Superinteligência:** Conceito futurista de IA que supera a inteligência humana em todas as áreas.
 
+![Narrow vs General](./imgs/img_2.png)
+
+
+A ilustração compara **IA Fraca (Narrow AI)** e **IA Forte (General AI)**, destacando suas principais diferenças em termos de funcionalidade, capacidade e aplicações. Vamos analisar os detalhes da imagem:  
+
+### 📌 **Lado Esquerdo: IA Fraca (Narrow AI)**  
+- Representada por ícones de tecnologias específicas, como **assistentes virtuais, reconhecimento facial e sistemas de recomendação**.  
+- Características principais:  
+  - **Especializada em uma única tarefa** (exemplo: um chatbot não pode dirigir um carro).  
+  - **Não possui compreensão geral ou consciência**.  
+  - Exemplo: **Siri, Google Translate, AlphaGo, carros autônomos atuais**.  
+- Aplicações comuns:  
+  - Assistentes de voz (Alexa, Siri).  
+  - Diagnóstico médico com IA.  
+  - Análises preditivas para e-commerce.  
+
+### 📌 **Lado Direito: IA Forte (General AI)**  
+- Simbolizada por um **robô humanoide com cérebro brilhando**, indicando **capacidade de aprendizado e adaptação em diferentes contextos**.  
+- Características principais:  
+  - **Pode realizar qualquer tarefa intelectual que um humano possa fazer**.  
+  - **Possui capacidade de raciocínio, aprendizado adaptativo e criatividade**.  
+  - Ainda **não existe** plenamente na prática, mas é um objetivo da pesquisa em IA.  
+- Potenciais aplicações:  
+  - Robôs humanoides multifuncionais.  
+  - Sistemas de IA capazes de aprender qualquer habilidade nova sem reprogramação.  
+  - Tomada de decisão autônoma em qualquer setor.  
+
+### 🔗 **Conexão entre as áreas**  
+A ilustração mostra a transição entre a IA Fraca e a IA Forte, evidenciando que estamos atualmente no estágio da IA Fraca, enquanto a IA Forte continua sendo um objetivo para o futuro da pesquisa.  
+
+Se precisar de uma versão com outros destaques ou um formato diferente, me avise! 🚀
+
+
 ### Aplicações Atuais
 - Assistentes virtuais (Siri, Alexa, Google Assistant)
 - Veículos autônomos
@@ -25,9 +78,45 @@ Fornecer uma visão geral sobre Inteligência Artificial (IA), sua origem, evolu
 - Processamento de linguagem natural (ChatGPT, Bard, etc.)
 - Reforço na cibersegurança
 
-**Atividade Rápida:** Perguntar aos alunos exemplos de IA que usam no dia a dia.
+
+![Infográfico sobre Aplicações da IA](./imgs/img_3.png)
+
+## Áreas destacadas:
+
+Este infográfico ilustra as diversas aplicações da Inteligência Artificial (IA) em diferentes setores da sociedade. Ele está dividido em várias áreas, cada uma destacando um campo onde a IA está sendo amplamente utilizada. Vamos analisar cada seção:  
+
+### 1️⃣ **Assistentes Virtuais**  
+- Representado por ícones de smart speakers e chatbots.  
+- Inclui tecnologias como **Siri, Alexa, Google Assistant**, que utilizam **Processamento de Linguagem Natural (NLP)** para entender e responder a comandos de voz.  
+- Aplicações: suporte ao usuário, automação residencial, pesquisa por voz.  
+
+### 2️⃣ **Veículos Autônomos**  
+- Mostra imagens de **carros autônomos e drones**.  
+- IA é usada em sensores, visão computacional e aprendizado de máquina para **navegação segura e tomada de decisões em tempo real**.  
+- Empresas como Tesla, Waymo e Uber desenvolvem essa tecnologia.  
+
+### 3️⃣ **Saúde e Diagnóstico Médico**  
+- Representado por equipamentos médicos e IA assistindo diagnósticos.  
+- IA ajuda a analisar exames de imagem, detectar **doenças precocemente** e sugerir tratamentos.  
+- Aplicações: diagnósticos baseados em **redes neurais**, cirurgia assistida por robôs, descoberta de medicamentos.  
+
+### 4️⃣ **Finanças e Segurança**  
+- Inclui **detecção de fraudes** e **trading algorítmico**.  
+- Bancos e corretoras utilizam IA para prever padrões de mercado e analisar riscos.  
+- Algoritmos são usados para **detectar transações suspeitas** em tempo real.  
+
+### 5️⃣ **Cibersegurança**  
+- Mostra um escudo digital simbolizando proteção de dados.  
+- IA analisa padrões de comportamento para identificar **ameaças e ataques cibernéticos** antes que ocorram.  
+- Aplicações: firewalls inteligentes, detecção de malwares, proteção contra phishing.  
+
+### 🔗 **Conexão entre as áreas**  
+O design do infográfico demonstra como a IA **interliga** diferentes setores da sociedade, mostrando sua ampla influência no cotidiano.  
 
 ---
+# *Quais exemplos de IA que usam no dia a dia?*
+
+
 
 ## 2. Origens da Inteligência Artificial (20 min)
 
