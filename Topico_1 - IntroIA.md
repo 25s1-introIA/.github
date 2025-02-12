@@ -125,7 +125,7 @@ O design do infográfico demonstra como a IA **interliga** diferentes setores da
 
 ### Principais Nomes
 - **Alan Turing:** Pai da computação moderna. 
-- ![Alan Turing](./imgs/alan_turing.png)
+- ![Alan Turing](./imgs/alan_Turing.png)
 - **John McCarthy:** Criador do termo "Inteligência Artificial".  
 - ![John McCarthy](./imgs/john-McCarthy.png)
 - **Marvin Minsky:** Contribuições fundamentais para redes neurais e cognição artificial. 
