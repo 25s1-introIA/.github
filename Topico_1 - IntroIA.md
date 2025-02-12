@@ -23,17 +23,15 @@ A imagem representa a **fusão entre um cérebro humano e circuitos eletrônicos
 - Ilustra conceitos como **Neurotecnologia**, **IA Cognitiva** e **Interface Cérebro-Computador (BCI - Brain-Computer Interface)**.  
 - Sugere um futuro onde humanos e máquinas trabalham juntos de forma complementar, potencializando o conhecimento e a inovação.  
 
-Se precisar de mais detalhes ou quiser um foco específico, me avise! 🚀
-
 ---
 
-## 1. O que é Inteligência Artificial? <!--(20 min)-->
+### 1. O que é Inteligência Artificial? <!--(20 min)-->
 
-### Definição
+#### Definição
 - Inteligência Artificial (IA) refere-se a sistemas computacionais que podem realizar tarefas que normalmente requerem inteligência humana.
 - Engloba subáreas como aprendizado de máquina (Machine Learning), processamento de linguagem natural (NLP), visão computacional e robótica.
 
-### Tipos de IA
+#### Tipos de IA
 - **IA Fraca (Narrow AI):** Projetada para executar uma tarefa específica (ex: assistentes virtuais, sistemas de recomendação).
 - **IA Forte (General AI):** Capaz de executar qualquer tarefa intelectual que um humano possa realizar (ainda teórica).
 - **Superinteligência:** Conceito futurista de IA que supera a inteligência humana em todas as áreas.
@@ -68,8 +66,6 @@ A ilustração compara **IA Fraca (Narrow AI)** e **IA Forte (General AI)**, des
 ### 🔗 **Conexão entre as áreas**  
 A ilustração mostra a transição entre a IA Fraca e a IA Forte, evidenciando que estamos atualmente no estágio da IA Fraca, enquanto a IA Forte continua sendo um objetivo para o futuro da pesquisa.  
 
-Se precisar de uma versão com outros destaques ou um formato diferente, me avise! 🚀
-
 
 ### Aplicações Atuais
 - Assistentes virtuais (Siri, Alexa, Google Assistant)
@@ -81,7 +77,7 @@ Se precisar de uma versão com outros destaques ou um formato diferente, me avis
 
 ![Infográfico sobre Aplicações da IA](./imgs/img_3.png)
 
-## Áreas destacadas:
+### Áreas destacadas:
 
 Este infográfico ilustra as diversas aplicações da Inteligência Artificial (IA) em diferentes setores da sociedade. Ele está dividido em várias áreas, cada uma destacando um campo onde a IA está sendo amplamente utilizada. Vamos analisar cada seção:  
 
@@ -114,30 +110,40 @@ Este infográfico ilustra as diversas aplicações da Inteligência Artificial (
 O design do infográfico demonstra como a IA **interliga** diferentes setores da sociedade, mostrando sua ampla influência no cotidiano.  
 
 ---
-# *Quais exemplos de IA que usam no dia a dia?*
+### *Quais exemplos de IA que usam no dia a dia?*
 
 
 
-## 2. Origens da Inteligência Artificial (20 min)
+# 2. Origens da Inteligência Artificial <!--(20 min)-->
 
 ### Contexto Histórico
-- **Década de 1940-1950:** Primeiros conceitos matemáticos sobre IA (Alan Turing, Teste de Turing).
+- **Década de 1940-1950:** Primeiros conceitos matemáticos sobre IA (Alan Turing, Teste de Turing). [Detalhes](./teste_turing.md)
 - **1956:** Conferência de Dartmouth, onde o termo "Inteligência Artificial" foi cunhado por John McCarthy.
 - **Décadas de 1960-1970:** Primeiros sistemas especialistas e avanços em algoritmos de busca.
 - **Décadas de 1980-1990:** Aprendizado de máquina ganha força com redes neurais e aumento do poder computacional.
 - **Anos 2000 em diante:** Big Data, deep learning e aplicações escaláveis de IA.
 
 ### Principais Nomes
-- **Alan Turing:** Pai da computação moderna.
-- **John McCarthy:** Criador do termo "Inteligência Artificial".
-- **Marvin Minsky:** Contribuições fundamentais para redes neurais e cognição artificial.
-- **Geoffrey Hinton, Yann LeCun e Yoshua Bengio:** Pioneiros do deep learning.
+- **Alan Turing:** Pai da computação moderna. 
+- ![Alan Turing](./imgs/alan_turing.png)
+- **John McCarthy:** Criador do termo "Inteligência Artificial".  
+- ![John McCarthy](./imgs/john-McCarthy.png)
+- **Marvin Minsky:** Contribuições fundamentais para redes neurais e cognição artificial. 
+- ![Marvin Minsky](./imgs/marvin_minsky.png)
+- **Geoffredy Hinton, Yann LeCun e Yoshua Bengio:** Pioneiros do deep learning.
+- ![DeepLearning](./imgs/turing-2018-bengio-hinton-lecun.png)
 
-**Discussão:** Como a IA evoluiu desde suas primeiras ideias?
 
----
 
-## 3. Evolução da Inteligência Artificial (30 min)
+[Prêmio Nobel para precursores em IA - 2024](https://www.bbc.com/portuguese/articles/c7493vx4jw2o)
+
+___
+
+### *Discussão: Como a IA evoluiu desde suas primeiras ideias?*
+
+
+
+# 3. Evolução da Inteligência Artificial <!--(30 min)-->
 
 ### Fases do Desenvolvimento
 - **1ª Onda (Regras e Lógica):** Sistemas especialistas baseados em regras (anos 1950-1980).
@@ -153,9 +159,42 @@ O design do infográfico demonstra como a IA **interliga** diferentes setores da
 
 **Atividade:** Exibir trechos de jogos de IA (ex: AlphaGo vs. Lee Sedol) e discutir os impactos na percepção da IA.
 
+[YouTube - AI vence melhor jogador de Go ](https://www.youtube.com/watch?v=NumBcAvmHS4&ab_channel=TimesOfIndia)
+
 ---
 
-## 4. SOTA (State-of-the-Art) da IA (20 min)
+# 4. SOTA (State-of-the-Art) da IA <!--(20 min)-->
+
+### **O que é SOTA (State of the Art) em IA?**  
+SOTA (**State of the Art**) refere-se ao **estado da arte** em Inteligência Artificial, ou seja, as melhores técnicas, modelos e abordagens disponíveis em um determinado momento. Um sistema de IA é considerado **SOTA** quando supera os métodos anteriores em **benchmarks**, que são testes padronizados para avaliar o desempenho em tarefas específicas.  
+
+---
+
+### **Benchmark Humano e Desempenho Esperado da IA**  
+Os benchmarks servem como referência para medir o desempenho de modelos de IA em comparação com a capacidade humana. Dependendo da tarefa, o objetivo da IA pode variar:  
+
+🔹 **Abaixo do desempenho humano** (*Sub-Human Performance*):  
+- O sistema ainda **não consegue superar humanos** na tarefa.  
+- Exemplo: Modelos iniciais de visão computacional falhavam em reconhecer objetos tão bem quanto humanos.  
+
+🔹 **No nível humano** (*Human-Level Performance*):  
+- A IA **alcança desempenho similar ao de um especialista humano**.  
+- Exemplo: Modelos como **GPT-4** podem gerar textos em diversos estilos, mas ainda têm dificuldades com raciocínio profundo e criatividade genuína.  
+
+🔹 **Acima do nível humano** (*Super-Human Performance*):  
+- O sistema de IA **supera os humanos** em precisão, velocidade e eficiência.  
+- Exemplo:  
+  - **DeepMind’s AlphaGo** derrotou campeões mundiais de Go, pois analisa milhões de jogadas possíveis em segundos.  
+  - **Diagnóstico por IA** já superou médicos em detectar certos tipos de câncer a partir de imagens médicas.  
+
+---
+
+### **Importância do Benchmark e seus Limites**  
+- **Avanço Contínuo**: O que é **SOTA hoje pode não ser amanhã**, pois a IA está sempre evoluindo.  
+- **Diferenças Contextuais**: Nem todas as tarefas têm um benchmark humano claro; por exemplo, um modelo pode criar arte única sem referência direta.  
+- **Interpretação Cautelosa**: Mesmo que uma IA supere humanos em um benchmark, isso **não significa que tenha compreensão real** — apenas otimização estatística para aquele problema.  
+
+---
 
 ### Principais Avanços Recentes
 - **Grandes Modelos de Linguagem (LLMs):** ChatGPT, Gemini, Claude.
@@ -174,7 +213,61 @@ O design do infográfico demonstra como a IA **interliga** diferentes setores da
 
 ---
 
-## Conclusão e Encerramento (10 min)
+# 5. IA Generativa vs. IA Discriminativa 
+
+A Inteligência Artificial pode ser categorizada em **IA Generativa** e **IA Discriminativa**, dependendo da maneira como processa e gera dados.  
+
+---
+
+## **1️⃣ IA Generativa** 🏗️🎨  
+A **IA Generativa** é projetada para **criar novos dados** a partir de padrões aprendidos em um conjunto de treinamento.  
+
+🔹 **Como funciona?**  
+- Aprende a modelar a **distribuição dos dados** e gera novas amostras que parecem reais.  
+- Usa modelos como **Redes Generativas Adversárias (GANs)** e **Modelos de Difusão** (exemplo: DALL·E, Stable Diffusion).  
+- Também inclui **Modelos de Linguagem** como o **GPT-4** e o **Gemini**, que geram textos coerentes e criativos.  
+
+🔹 **Exemplos de Aplicação**  
+✅ Geração de imagens e vídeos (DALL·E, MidJourney).  
+✅ Produção de texto (ChatGPT, Bard).  
+✅ Criação de música e arte digital.  
+✅ Síntese de voz e deepfakes.  
+
+---
+
+## **2️⃣ IA Discriminativa** 🔍⚖️  
+A **IA Discriminativa** é usada para **classificar e diferenciar dados**, aprendendo a tomar decisões sobre os padrões que encontra.  
+
+🔹 **Como funciona?**  
+- Em vez de gerar novos dados, a IA tenta prever **probabilidades e categorias** com base nos dados de entrada.  
+- Modelos como **Redes Neurais Convolucionais (CNNs)** e **Transformers** são usados para classificação e reconhecimento de padrões.  
+
+🔹 **Exemplos de Aplicação**  
+✅ **Detecção de fraudes** (bancos analisam transações suspeitas).  
+✅ **Diagnóstico médico** (identificação de doenças em exames de imagem).  
+✅ **Reconhecimento facial** (sistemas de segurança).  
+✅ **Classificação de e-mails** (filtros de spam).  
+
+---
+
+### 🔥 **Principais Diferenças**  
+
+| Característica  | IA Generativa  | IA Discriminativa  |
+|---------------|---------------|----------------|
+| **Objetivo**  | Criar novos dados  | Classificar ou diferenciar dados  |
+| **Exemplos**  | Geração de texto, imagens e voz  | Diagnóstico médico, detecção de fraudes  |
+| **Modelos Famosos**  | GANs, Diffusion Models, GPT-4, DALL·E  | CNNs, Transformers para classificação  |
+| **Entrada/Saída**  | Entrada → Geração de nova amostra  | Entrada → Classificação ou predição  |
+
+---
+
+### **📌 Conexão entre as duas abordagens**  
+🔹 IA Generativa e IA Discriminativa podem trabalhar **juntas**!  
+🔹 **Exemplo:** Em uma **GAN (Rede Generativa Adversária)**, uma IA Generativa cria imagens falsas enquanto uma IA Discriminativa tenta distinguir imagens reais das falsas, melhorando a qualidade das amostras geradas.  
+
+Se precisar de mais detalhes ou exemplos específicos, me avise! 🚀
+
+## Conclusão e Encerramento <!--(10 min)-->
 - Revisão dos principais conceitos abordados.
 - Reflexão sobre o impacto da IA na sociedade e no futuro do trabalho.
 - Indicação de leituras e materiais extras para aprofundamento.
