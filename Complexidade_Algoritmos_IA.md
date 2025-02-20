@@ -1,4 +1,4 @@
-**Complexidade dos Algoritmos e Inteligência Artificial**
+# **Complexidade dos Algoritmos e Inteligência Artificial**
 
 A complexidade dos algoritmos é um conceito fundamental da computação, pois define o desempenho e a eficiência das soluções computacionais. Na Inteligência Artificial (IA), a escolha e a análise da complexidade dos algoritmos desempenham um papel crucial, impactando diretamente a viabilidade e a escalabilidade dos modelos utilizados.
 
@@ -32,3 +32,15 @@ Para lidar com a alta complexidade dos algoritmos de IA, algumas estratégias po
 ## **Conclusão**
 A complexidade dos algoritmos é um fator crítico no desenvolvimento de soluções de Inteligência Artificial. A escolha do algoritmo adequado para cada problema envolve equilibrar precisão e eficiência computacional, garantindo que os sistemas possam operar em larga escala e com alto desempenho. A aplicação de técnicas de otimização é essencial para viabilizar o uso de IA em cenários complexos e dinâmicos.
 
+## Prática
+
+ -  [Big O -> COLAB ](https://github.com/25s1-introIA/.github/blob/main/colabs/big_0.ipynb)
+
+ - [Complexidade dos principais algoritmos de Machine Learning](./algoML_complexidades.md)
+
+
+## **Para saber mais:**
+
+1 - [Complexidade - Blog Toni Esteves](https://www.toniesteves.com/introduction-to-big-o-notation#:~:text=A%20nota%C3%A7%C3%A3o%20Big%20O%20%C3%A9,em%20qualquer%20linguagem%20de%20programa%C3%A7%C3%A3o.&text=Como%20esse%20%C3%A9%20um%20t%C3%B3pico,(log%20n)%2C%20etc.)
+
+2 - [Computational Complexity](https://oecs.mit.edu/pub/nq8ws6q1/release/1)
