@@ -12,6 +12,10 @@ A complexidade de um algoritmo pode ser medida em termos de tempo (complexidade 
 - **O(n^2), O(n^3)**: Complexidade polinomial, frequentemente encontrada em algoritmos ingênos de otimização.
 - **O(2^n), O(n!)**: Complexidade exponencial e fatorial, característica de algoritmos que enfrentam problemas combinatórios.
 
+
+![Narrow vs General](./imgs/1739554594111.gif)
+
+
 ## **Complexidade na Inteligência Artificial**
 Na IA, a complexidade dos algoritmos afeta diretamente a capacidade dos sistemas de processar grandes quantidades de dados e realizar inferências em tempo hábil. Alguns exemplos de algoritmos de IA e suas complexidades incluem:
 
@@ -19,6 +23,8 @@ Na IA, a complexidade dos algoritmos afeta diretamente a capacidade dos sistemas
 - **Algoritmos Genéticos**: Geralmente possuem complexidade elevada, na ordem de **O(g × p × f(n))**, onde g é o número de gerações, p é o tamanho da população e f(n) é o tempo de avaliação da função de aptidão.
 - **Algoritmos de Aprendizado por Reforço**: Como Q-learning e Deep Q-Networks (DQN), possuem complexidade que pode crescer exponencialmente devido à necessidade de exploração do espaço de estados e a memória utilizada para armazenar as políticas aprendidas.
 - **SVM (Support Vector Machine)**: Dependendo do kernel utilizado, pode variar de **O(n^2)** a **O(n^3)**, tornando-se impraticável para grandes conjuntos de dados.
+
+
 
 ## **Estratégias para Redução da Complexidade**
 Para lidar com a alta complexidade dos algoritmos de IA, algumas estratégias podem ser adotadas:
@@ -44,3 +50,5 @@ A complexidade dos algoritmos é um fator crítico no desenvolvimento de soluç�
 1 - [Complexidade - Blog Toni Esteves](https://www.toniesteves.com/introduction-to-big-o-notation#:~:text=A%20nota%C3%A7%C3%A3o%20Big%20O%20%C3%A9,em%20qualquer%20linguagem%20de%20programa%C3%A7%C3%A3o.&text=Como%20esse%20%C3%A9%20um%20t%C3%B3pico,(log%20n)%2C%20etc.)
 
 2 - [Computational Complexity](https://oecs.mit.edu/pub/nq8ws6q1/release/1)
+
+3 - [GPU vs CPU](./GPUvsCPU.md)
