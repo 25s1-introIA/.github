@@ -42,7 +42,7 @@ Os métodos de busca podem ser classificados em dois grandes grupos:
      - [Busca Uniforme](./Topico_2%20-%20BuscaUniforme.md)
 
 
-2. **Busca informada (Heurística)**
+2. [**Busca informada (Heurística)**](./busca_heuristica.md)
    - Utiliza informações adicionais (heurísticas) para melhorar a eficiência.
    - Faz uso de funções heurísticas para estimar o custo de alcançar a solução.
    - Exemplos:
@@ -116,6 +116,16 @@ Implemente o A* para encontrar o caminho mais curto entre duas cidades em um map
 - **Busca em Grandes Volumes de Dados (Big Data)**: Algoritmos especializados para busca eficiente em grandes bases de dados distribuídas.
 
 ---
+
+
+
+
+# Desafios
+
+- [Desafio 1](./desafio_1.md)
+- [Desafio 2](./desafio_2.md)
+
+
 
 # Para saber mais:
 
