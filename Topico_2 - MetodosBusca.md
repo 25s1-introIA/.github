@@ -124,6 +124,9 @@ Implemente o A* para encontrar o caminho mais curto entre duas cidades em um map
 
 - [Desafio 1](./desafio_1.md)
 - [Desafio 2](./desafio_2.md)
+- [Desafio 3](./desafio_3.md)
+- [Desafio 4](./desafio_4.md)
+
 
 
 

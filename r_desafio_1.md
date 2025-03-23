@@ -47,4 +47,41 @@ S  →  →  #  .
 ```
 This is how BFS expands and finds the shortest path efficiently! 🚀  
 
-Would you like me to modify the code to print this kind of visualization? 😃
+```python
+import sys
+from collections import deque
+
+def bfs(grid, N, M, sx, sy, dx, dy):
+    directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]  # Up, Down, Left, Right
+    queue = deque([(sx, sy, 0)])  # (x, y, distance)
+    visited = set()
+    visited.add((sx, sy))
+    
+    while queue:
+        x, y, dist = queue.popleft()
+        
+        if (x, y) == (dx, dy):
+            return dist
+        
+        for dx, dy in directions:
+            nx, ny = x + dx, y + dy
+            if 0 <= nx < N and 0 <= ny < M and grid[nx][ny] == '.' and (nx, ny) not in visited:
+                visited.add((nx, ny))
+                queue.append((nx, ny, dist + 1))
+    
+    return -1  # No path found
+
+def main():
+    # Reading input
+    N, M = map(int, sys.stdin.readline().split())
+     grid = [input().strip().split() for _ in range(N)]
+    sx, sy, dx, dy = map(int, sys.stdin.readline().split())
+    
+    # Solving the problem
+    result = bfs(grid, N, M, sx, sy, dx, dy)
+    print(result)
+
+if __name__ == "__main__":
+    main()
+
+```
