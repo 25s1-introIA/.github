@@ -33,19 +33,19 @@ O raciocínio probabilístico temporal é uma abordagem fundamental para modelar
 
 ### Principais Modelos de Raciocínio Probabilístico Temporal
 
-1. **Modelos Ocultos de Markov (HMM - Hidden Markov Models)**:
+1. [**Modelos Ocultos de Markov (HMM - Hidden Markov Models)**](./Topico3-HMM.md):
    - Modelam sistemas dinâmicos onde estados latentes influenciam as observações.
    - Aplicados em reconhecimento de fala e análise de sequências biológicas.
    
-2. **Redes Bayesianas Dinâmicas (DBN - Dynamic Bayesian Networks)**:
+2. [**Redes Bayesianas Dinâmicas (DBN - Dynamic Bayesian Networks)**](./Topico3-DBN.md):
    - Extensão das Redes Bayesianas para modelar dependências temporais.
    - Utilizadas em sistemas de navegação autônoma e previsão de eventos.
 
-3. **Processos de Decisão de Markov (MDP - Markov Decision Processes)**:
+3. [**Processos de Decisão de Markov (MDP - Markov Decision Processes)**](./Topico3-MDP.md):
    - Modelam a interação entre agentes e ambientes dinâmicos para otimização de decisões.
    - Utilizados em robótica e inteligência artificial aplicada a jogos.
 
-4. **Processos de Kalman**:
+4. [**Processos de Kalman**](./Topico3-Kalman.md):
    - Utilizados para filtrar ruído em sistemas dinâmicos e prever estados futuros.
    - Aplicados em rastreamento de objetos e controle de veículos autônomos.
 

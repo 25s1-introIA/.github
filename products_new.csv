@@ -1,0 +1,6 @@
+product_id,product_name,category,application,user_id
+P1234,Motor_Eletrico,Motores,Automacao_Industrial,U5678
+P5678,Bomba_Hidraulica,Bombas,Hidraulica,U1234
+P91011,Sensor_de_Pressao,Sensores,Monitoramento,U5678
+P1213,Valvula_Pneumatica,Valvulas,Controle_de_Fluxo,U91011
+P1415,Controlador_PLC,Controladores,Automacao,U1415

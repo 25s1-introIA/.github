@@ -1,0 +1,501 @@
+equipamento_id,equipamento_nome,componente_id,componente_nome,sensor_id,sensor_nome,frequencia_leitura,falha_id,falha_nome,data_falha,descricao_falha,tecnico_id,tecnico_nome,procedimento_id,procedimento_nome
+eqp1,Compressor de Ar,cmp1,Engrenagem,sns1,Sensor de Vibração,0.62,flh1,Falha por Vibração Excedente,2025-02-17,Excesso de vibração detectado,tec1,Carlos Silva,prc1,Vedação da Válvula
+eqp2,Compressor de Ar,cmp2,Válvula de Pressão,sns2,Sensor de Vibração,1.18,flh2,Falha por Vibração Excedente,2023-02-09,Perda de pressão no componente,tec2,Ana Lima,prc2,Resfriamento do Equipamento
+eqp3,Bomba Hidráulica,cmp3,Válvula de Pressão,sns3,Sensor de Vibração,1.95,flh3,Superaquecimento,2024-08-05,Temperatura acima do limite,tec3,Ana Lima,prc3,Resfriamento do Equipamento
+eqp4,Bomba Hidráulica,cmp4,Engrenagem,sns4,Sensor de Pressão,1.17,flh4,Falha por Vibração Excedente,2024-07-26,Temperatura acima do limite,tec4,Ana Lima,prc4,Vedação da Válvula
+eqp5,Compressor de Ar,cmp5,Engrenagem,sns5,Sensor de Temperatura,1.15,flh5,Falha por Vibração Excedente,2023-07-07,Excesso de vibração detectado,tec5,Ana Lima,prc5,Resfriamento do Equipamento
+eqp6,Bomba Hidráulica,cmp6,Engrenagem,sns6,Sensor de Vibração,1.58,flh6,Vazamento de Pressão,2024-07-14,Perda de pressão no componente,tec6,Ana Lima,prc6,Troca de Rolamento
+eqp7,Bomba Hidráulica,cmp7,Rolamento Frontal,sns7,Sensor de Pressão,1.69,flh7,Falha por Vibração Excedente,2023-08-17,Temperatura acima do limite,tec7,Carlos Silva,prc7,Troca de Rolamento
+eqp8,Bomba Hidráulica,cmp8,Rolamento Frontal,sns8,Sensor de Temperatura,1.77,flh8,Falha por Vibração Excedente,2025-01-01,Temperatura acima do limite,tec8,João Pereira,prc8,Resfriamento do Equipamento
+eqp9,Motor Principal,cmp9,Válvula de Pressão,sns9,Sensor de Pressão,1.49,flh9,Falha por Vibração Excedente,2024-01-05,Perda de pressão no componente,tec9,João Pereira,prc9,Troca de Rolamento
+eqp10,Bomba Hidráulica,cmp10,Engrenagem,sns10,Sensor de Vibração,1.54,flh10,Vazamento de Pressão,2023-05-17,Temperatura acima do limite,tec10,Carlos Silva,prc10,Resfriamento do Equipamento
+eqp11,Motor Principal,cmp11,Rolamento Frontal,sns11,Sensor de Pressão,0.87,flh11,Vazamento de Pressão,2023-03-27,Perda de pressão no componente,tec11,Ana Lima,prc11,Vedação da Válvula
+eqp12,Motor Principal,cmp12,Válvula de Pressão,sns12,Sensor de Pressão,1.95,flh12,Vazamento de Pressão,2023-07-02,Excesso de vibração detectado,tec12,Ana Lima,prc12,Resfriamento do Equipamento
+eqp13,Compressor de Ar,cmp13,Rolamento Frontal,sns13,Sensor de Vibração,0.79,flh13,Falha por Vibração Excedente,2024-01-06,Temperatura acima do limite,tec13,Ana Lima,prc13,Resfriamento do Equipamento
+eqp14,Bomba Hidráulica,cmp14,Engrenagem,sns14,Sensor de Vibração,1.31,flh14,Superaquecimento,2024-11-07,Excesso de vibração detectado,tec14,Ana Lima,prc14,Troca de Rolamento
+eqp15,Compressor de Ar,cmp15,Válvula de Pressão,sns15,Sensor de Vibração,1.15,flh15,Vazamento de Pressão,2023-07-02,Perda de pressão no componente,tec15,Carlos Silva,prc15,Vedação da Válvula
+eqp16,Bomba Hidráulica,cmp16,Válvula de Pressão,sns16,Sensor de Vibração,1.39,flh16,Falha por Vibração Excedente,2023-11-27,Excesso de vibração detectado,tec16,João Pereira,prc16,Troca de Rolamento
+eqp17,Compressor de Ar,cmp17,Rolamento Frontal,sns17,Sensor de Pressão,0.6,flh17,Falha por Vibração Excedente,2025-01-12,Excesso de vibração detectado,tec17,Carlos Silva,prc17,Vedação da Válvula
+eqp18,Compressor de Ar,cmp18,Válvula de Pressão,sns18,Sensor de Temperatura,0.78,flh18,Superaquecimento,2023-03-20,Perda de pressão no componente,tec18,Ana Lima,prc18,Vedação da Válvula
+eqp19,Motor Principal,cmp19,Engrenagem,sns19,Sensor de Temperatura,1.51,flh19,Superaquecimento,2023-10-14,Perda de pressão no componente,tec19,Ana Lima,prc19,Vedação da Válvula
+eqp20,Compressor de Ar,cmp20,Válvula de Pressão,sns20,Sensor de Pressão,1.9,flh20,Falha por Vibração Excedente,2023-11-08,Excesso de vibração detectado,tec20,Ana Lima,prc20,Troca de Rolamento
+eqp21,Compressor de Ar,cmp21,Engrenagem,sns21,Sensor de Vibração,1.85,flh21,Falha por Vibração Excedente,2023-05-21,Temperatura acima do limite,tec21,Ana Lima,prc21,Troca de Rolamento
+eqp22,Motor Principal,cmp22,Válvula de Pressão,sns22,Sensor de Pressão,1.48,flh22,Vazamento de Pressão,2023-04-13,Temperatura acima do limite,tec22,Carlos Silva,prc22,Vedação da Válvula
+eqp23,Motor Principal,cmp23,Válvula de Pressão,sns23,Sensor de Temperatura,1.11,flh23,Vazamento de Pressão,2023-07-04,Perda de pressão no componente,tec23,Ana Lima,prc23,Troca de Rolamento
+eqp24,Bomba Hidráulica,cmp24,Engrenagem,sns24,Sensor de Vibração,0.67,flh24,Superaquecimento,2024-01-22,Excesso de vibração detectado,tec24,Carlos Silva,prc24,Vedação da Válvula
+eqp25,Bomba Hidráulica,cmp25,Engrenagem,sns25,Sensor de Pressão,1.35,flh25,Vazamento de Pressão,2023-01-28,Excesso de vibração detectado,tec25,Carlos Silva,prc25,Vedação da Válvula
+eqp26,Bomba Hidráulica,cmp26,Rolamento Frontal,sns26,Sensor de Vibração,1.52,flh26,Falha por Vibração Excedente,2025-03-25,Excesso de vibração detectado,tec26,Ana Lima,prc26,Vedação da Válvula
+eqp27,Bomba Hidráulica,cmp27,Engrenagem,sns27,Sensor de Temperatura,1.03,flh27,Superaquecimento,2023-09-20,Excesso de vibração detectado,tec27,Carlos Silva,prc27,Vedação da Válvula
+eqp28,Motor Principal,cmp28,Válvula de Pressão,sns28,Sensor de Temperatura,1.55,flh28,Falha por Vibração Excedente,2024-09-23,Perda de pressão no componente,tec28,Carlos Silva,prc28,Resfriamento do Equipamento
+eqp29,Bomba Hidráulica,cmp29,Rolamento Frontal,sns29,Sensor de Vibração,1.55,flh29,Falha por Vibração Excedente,2023-03-20,Excesso de vibração detectado,tec29,Carlos Silva,prc29,Vedação da Válvula
+eqp30,Bomba Hidráulica,cmp30,Válvula de Pressão,sns30,Sensor de Temperatura,1.09,flh30,Vazamento de Pressão,2023-03-18,Temperatura acima do limite,tec30,Carlos Silva,prc30,Vedação da Válvula
+eqp31,Bomba Hidráulica,cmp31,Rolamento Frontal,sns31,Sensor de Temperatura,0.77,flh31,Vazamento de Pressão,2023-09-08,Perda de pressão no componente,tec31,João Pereira,prc31,Troca de Rolamento
+eqp32,Compressor de Ar,cmp32,Rolamento Frontal,sns32,Sensor de Pressão,0.98,flh32,Falha por Vibração Excedente,2024-09-12,Perda de pressão no componente,tec32,Carlos Silva,prc32,Vedação da Válvula
+eqp33,Motor Principal,cmp33,Engrenagem,sns33,Sensor de Vibração,1.17,flh33,Vazamento de Pressão,2023-06-09,Excesso de vibração detectado,tec33,João Pereira,prc33,Vedação da Válvula
+eqp34,Bomba Hidráulica,cmp34,Engrenagem,sns34,Sensor de Vibração,1.85,flh34,Falha por Vibração Excedente,2023-09-04,Excesso de vibração detectado,tec34,João Pereira,prc34,Vedação da Válvula
+eqp35,Compressor de Ar,cmp35,Rolamento Frontal,sns35,Sensor de Vibração,1.16,flh35,Falha por Vibração Excedente,2023-05-12,Temperatura acima do limite,tec35,Carlos Silva,prc35,Resfriamento do Equipamento
+eqp36,Compressor de Ar,cmp36,Válvula de Pressão,sns36,Sensor de Pressão,1.84,flh36,Vazamento de Pressão,2023-02-01,Temperatura acima do limite,tec36,Carlos Silva,prc36,Resfriamento do Equipamento
+eqp37,Compressor de Ar,cmp37,Engrenagem,sns37,Sensor de Vibração,1.72,flh37,Falha por Vibração Excedente,2023-03-30,Perda de pressão no componente,tec37,Carlos Silva,prc37,Troca de Rolamento
+eqp38,Compressor de Ar,cmp38,Válvula de Pressão,sns38,Sensor de Pressão,1.72,flh38,Falha por Vibração Excedente,2024-04-09,Excesso de vibração detectado,tec38,Ana Lima,prc38,Vedação da Válvula
+eqp39,Motor Principal,cmp39,Válvula de Pressão,sns39,Sensor de Temperatura,0.52,flh39,Falha por Vibração Excedente,2024-03-28,Temperatura acima do limite,tec39,João Pereira,prc39,Resfriamento do Equipamento
+eqp40,Motor Principal,cmp40,Engrenagem,sns40,Sensor de Temperatura,0.53,flh40,Falha por Vibração Excedente,2024-08-30,Perda de pressão no componente,tec40,João Pereira,prc40,Vedação da Válvula
+eqp41,Compressor de Ar,cmp41,Rolamento Frontal,sns41,Sensor de Pressão,0.55,flh41,Vazamento de Pressão,2024-08-07,Temperatura acima do limite,tec41,Ana Lima,prc41,Troca de Rolamento
+eqp42,Motor Principal,cmp42,Válvula de Pressão,sns42,Sensor de Vibração,1.85,flh42,Falha por Vibração Excedente,2023-08-24,Perda de pressão no componente,tec42,Carlos Silva,prc42,Troca de Rolamento
+eqp43,Motor Principal,cmp43,Rolamento Frontal,sns43,Sensor de Temperatura,1.37,flh43,Vazamento de Pressão,2023-07-04,Temperatura acima do limite,tec43,Ana Lima,prc43,Vedação da Válvula
+eqp44,Motor Principal,cmp44,Engrenagem,sns44,Sensor de Pressão,1.6,flh44,Falha por Vibração Excedente,2023-01-22,Perda de pressão no componente,tec44,João Pereira,prc44,Troca de Rolamento
+eqp45,Bomba Hidráulica,cmp45,Engrenagem,sns45,Sensor de Temperatura,1.56,flh45,Vazamento de Pressão,2024-12-28,Temperatura acima do limite,tec45,Carlos Silva,prc45,Troca de Rolamento
+eqp46,Bomba Hidráulica,cmp46,Válvula de Pressão,sns46,Sensor de Pressão,0.94,flh46,Falha por Vibração Excedente,2024-04-28,Excesso de vibração detectado,tec46,João Pereira,prc46,Resfriamento do Equipamento
+eqp47,Bomba Hidráulica,cmp47,Rolamento Frontal,sns47,Sensor de Vibração,1.96,flh47,Vazamento de Pressão,2024-01-28,Excesso de vibração detectado,tec47,Ana Lima,prc47,Vedação da Válvula
+eqp48,Compressor de Ar,cmp48,Engrenagem,sns48,Sensor de Pressão,1.9,flh48,Superaquecimento,2024-12-11,Temperatura acima do limite,tec48,Carlos Silva,prc48,Resfriamento do Equipamento
+eqp49,Motor Principal,cmp49,Válvula de Pressão,sns49,Sensor de Temperatura,0.64,flh49,Vazamento de Pressão,2024-04-30,Temperatura acima do limite,tec49,João Pereira,prc49,Resfriamento do Equipamento
+eqp50,Compressor de Ar,cmp50,Engrenagem,sns50,Sensor de Vibração,1.91,flh50,Falha por Vibração Excedente,2024-06-22,Temperatura acima do limite,tec50,Carlos Silva,prc50,Vedação da Válvula
+eqp51,Compressor de Ar,cmp51,Válvula de Pressão,sns51,Sensor de Pressão,0.99,flh51,Falha por Vibração Excedente,2024-01-21,Excesso de vibração detectado,tec51,Carlos Silva,prc51,Vedação da Válvula
+eqp52,Bomba Hidráulica,cmp52,Válvula de Pressão,sns52,Sensor de Temperatura,1.91,flh52,Vazamento de Pressão,2023-04-02,Excesso de vibração detectado,tec52,Carlos Silva,prc52,Troca de Rolamento
+eqp53,Compressor de Ar,cmp53,Engrenagem,sns53,Sensor de Temperatura,0.71,flh53,Superaquecimento,2023-06-01,Temperatura acima do limite,tec53,João Pereira,prc53,Vedação da Válvula
+eqp54,Compressor de Ar,cmp54,Válvula de Pressão,sns54,Sensor de Temperatura,1.14,flh54,Superaquecimento,2024-04-28,Temperatura acima do limite,tec54,Ana Lima,prc54,Vedação da Válvula
+eqp55,Compressor de Ar,cmp55,Rolamento Frontal,sns55,Sensor de Temperatura,0.82,flh55,Vazamento de Pressão,2024-12-10,Excesso de vibração detectado,tec55,Ana Lima,prc55,Resfriamento do Equipamento
+eqp56,Compressor de Ar,cmp56,Rolamento Frontal,sns56,Sensor de Vibração,1.64,flh56,Vazamento de Pressão,2023-12-23,Excesso de vibração detectado,tec56,Ana Lima,prc56,Resfriamento do Equipamento
+eqp57,Compressor de Ar,cmp57,Engrenagem,sns57,Sensor de Temperatura,1.67,flh57,Falha por Vibração Excedente,2023-06-08,Perda de pressão no componente,tec57,João Pereira,prc57,Resfriamento do Equipamento
+eqp58,Motor Principal,cmp58,Rolamento Frontal,sns58,Sensor de Pressão,0.94,flh58,Superaquecimento,2024-03-20,Perda de pressão no componente,tec58,Ana Lima,prc58,Resfriamento do Equipamento
+eqp59,Motor Principal,cmp59,Rolamento Frontal,sns59,Sensor de Temperatura,1.74,flh59,Superaquecimento,2024-02-02,Excesso de vibração detectado,tec59,Ana Lima,prc59,Troca de Rolamento
+eqp60,Compressor de Ar,cmp60,Rolamento Frontal,sns60,Sensor de Vibração,1.08,flh60,Falha por Vibração Excedente,2023-12-10,Perda de pressão no componente,tec60,João Pereira,prc60,Resfriamento do Equipamento
+eqp61,Motor Principal,cmp61,Rolamento Frontal,sns61,Sensor de Vibração,1.39,flh61,Superaquecimento,2023-06-13,Temperatura acima do limite,tec61,Carlos Silva,prc61,Resfriamento do Equipamento
+eqp62,Bomba Hidráulica,cmp62,Válvula de Pressão,sns62,Sensor de Vibração,1.95,flh62,Falha por Vibração Excedente,2024-09-22,Temperatura acima do limite,tec62,João Pereira,prc62,Resfriamento do Equipamento
+eqp63,Bomba Hidráulica,cmp63,Válvula de Pressão,sns63,Sensor de Temperatura,0.53,flh63,Superaquecimento,2023-01-12,Excesso de vibração detectado,tec63,Ana Lima,prc63,Resfriamento do Equipamento
+eqp64,Motor Principal,cmp64,Engrenagem,sns64,Sensor de Vibração,1.58,flh64,Falha por Vibração Excedente,2025-02-14,Perda de pressão no componente,tec64,Ana Lima,prc64,Vedação da Válvula
+eqp65,Motor Principal,cmp65,Rolamento Frontal,sns65,Sensor de Temperatura,1.58,flh65,Vazamento de Pressão,2023-06-12,Excesso de vibração detectado,tec65,Carlos Silva,prc65,Vedação da Válvula
+eqp66,Bomba Hidráulica,cmp66,Válvula de Pressão,sns66,Sensor de Temperatura,1.14,flh66,Vazamento de Pressão,2024-11-02,Perda de pressão no componente,tec66,Carlos Silva,prc66,Troca de Rolamento
+eqp67,Compressor de Ar,cmp67,Rolamento Frontal,sns67,Sensor de Temperatura,0.67,flh67,Vazamento de Pressão,2024-03-23,Perda de pressão no componente,tec67,Ana Lima,prc67,Vedação da Válvula
+eqp68,Bomba Hidráulica,cmp68,Rolamento Frontal,sns68,Sensor de Vibração,0.66,flh68,Vazamento de Pressão,2023-07-13,Excesso de vibração detectado,tec68,João Pereira,prc68,Resfriamento do Equipamento
+eqp69,Compressor de Ar,cmp69,Engrenagem,sns69,Sensor de Pressão,1.27,flh69,Vazamento de Pressão,2023-05-30,Excesso de vibração detectado,tec69,João Pereira,prc69,Troca de Rolamento
+eqp70,Compressor de Ar,cmp70,Rolamento Frontal,sns70,Sensor de Vibração,1.69,flh70,Vazamento de Pressão,2024-06-17,Excesso de vibração detectado,tec70,Carlos Silva,prc70,Troca de Rolamento
+eqp71,Compressor de Ar,cmp71,Engrenagem,sns71,Sensor de Vibração,1.44,flh71,Vazamento de Pressão,2023-03-24,Perda de pressão no componente,tec71,Ana Lima,prc71,Troca de Rolamento
+eqp72,Motor Principal,cmp72,Válvula de Pressão,sns72,Sensor de Temperatura,0.73,flh72,Falha por Vibração Excedente,2025-03-01,Temperatura acima do limite,tec72,Ana Lima,prc72,Vedação da Válvula
+eqp73,Compressor de Ar,cmp73,Engrenagem,sns73,Sensor de Pressão,0.64,flh73,Vazamento de Pressão,2023-11-02,Excesso de vibração detectado,tec73,Carlos Silva,prc73,Resfriamento do Equipamento
+eqp74,Motor Principal,cmp74,Engrenagem,sns74,Sensor de Temperatura,0.87,flh74,Falha por Vibração Excedente,2024-02-04,Perda de pressão no componente,tec74,Ana Lima,prc74,Resfriamento do Equipamento
+eqp75,Motor Principal,cmp75,Válvula de Pressão,sns75,Sensor de Temperatura,1.62,flh75,Superaquecimento,2024-07-31,Temperatura acima do limite,tec75,Carlos Silva,prc75,Troca de Rolamento
+eqp76,Bomba Hidráulica,cmp76,Válvula de Pressão,sns76,Sensor de Pressão,1.69,flh76,Falha por Vibração Excedente,2023-04-22,Temperatura acima do limite,tec76,Ana Lima,prc76,Troca de Rolamento
+eqp77,Bomba Hidráulica,cmp77,Válvula de Pressão,sns77,Sensor de Vibração,1.51,flh77,Superaquecimento,2024-07-24,Perda de pressão no componente,tec77,Carlos Silva,prc77,Troca de Rolamento
+eqp78,Bomba Hidráulica,cmp78,Válvula de Pressão,sns78,Sensor de Vibração,1.11,flh78,Superaquecimento,2024-12-14,Temperatura acima do limite,tec78,João Pereira,prc78,Resfriamento do Equipamento
+eqp79,Bomba Hidráulica,cmp79,Rolamento Frontal,sns79,Sensor de Temperatura,1.99,flh79,Falha por Vibração Excedente,2024-11-03,Temperatura acima do limite,tec79,Carlos Silva,prc79,Troca de Rolamento
+eqp80,Bomba Hidráulica,cmp80,Rolamento Frontal,sns80,Sensor de Vibração,1.87,flh80,Superaquecimento,2024-11-05,Excesso de vibração detectado,tec80,Carlos Silva,prc80,Vedação da Válvula
+eqp81,Motor Principal,cmp81,Rolamento Frontal,sns81,Sensor de Vibração,1.47,flh81,Falha por Vibração Excedente,2024-07-18,Perda de pressão no componente,tec81,Carlos Silva,prc81,Troca de Rolamento
+eqp82,Motor Principal,cmp82,Engrenagem,sns82,Sensor de Temperatura,1.6,flh82,Falha por Vibração Excedente,2024-04-14,Temperatura acima do limite,tec82,Ana Lima,prc82,Vedação da Válvula
+eqp83,Motor Principal,cmp83,Válvula de Pressão,sns83,Sensor de Vibração,1.83,flh83,Superaquecimento,2023-01-22,Perda de pressão no componente,tec83,Carlos Silva,prc83,Troca de Rolamento
+eqp84,Compressor de Ar,cmp84,Válvula de Pressão,sns84,Sensor de Temperatura,1.23,flh84,Falha por Vibração Excedente,2024-07-15,Temperatura acima do limite,tec84,Ana Lima,prc84,Resfriamento do Equipamento
+eqp85,Compressor de Ar,cmp85,Rolamento Frontal,sns85,Sensor de Vibração,0.55,flh85,Superaquecimento,2024-12-24,Temperatura acima do limite,tec85,Ana Lima,prc85,Vedação da Válvula
+eqp86,Bomba Hidráulica,cmp86,Rolamento Frontal,sns86,Sensor de Pressão,1.18,flh86,Superaquecimento,2024-07-16,Excesso de vibração detectado,tec86,Ana Lima,prc86,Vedação da Válvula
+eqp87,Motor Principal,cmp87,Engrenagem,sns87,Sensor de Temperatura,1.82,flh87,Vazamento de Pressão,2024-02-16,Temperatura acima do limite,tec87,Carlos Silva,prc87,Vedação da Válvula
+eqp88,Motor Principal,cmp88,Rolamento Frontal,sns88,Sensor de Temperatura,1.27,flh88,Superaquecimento,2024-12-20,Perda de pressão no componente,tec88,Ana Lima,prc88,Resfriamento do Equipamento
+eqp89,Compressor de Ar,cmp89,Válvula de Pressão,sns89,Sensor de Pressão,1.07,flh89,Falha por Vibração Excedente,2024-10-09,Perda de pressão no componente,tec89,Ana Lima,prc89,Troca de Rolamento
+eqp90,Compressor de Ar,cmp90,Engrenagem,sns90,Sensor de Pressão,1.15,flh90,Vazamento de Pressão,2024-11-12,Excesso de vibração detectado,tec90,Ana Lima,prc90,Resfriamento do Equipamento
+eqp91,Motor Principal,cmp91,Engrenagem,sns91,Sensor de Temperatura,1.38,flh91,Superaquecimento,2023-02-06,Perda de pressão no componente,tec91,Carlos Silva,prc91,Vedação da Válvula
+eqp92,Bomba Hidráulica,cmp92,Rolamento Frontal,sns92,Sensor de Temperatura,1.03,flh92,Falha por Vibração Excedente,2023-12-22,Perda de pressão no componente,tec92,João Pereira,prc92,Resfriamento do Equipamento
+eqp93,Compressor de Ar,cmp93,Válvula de Pressão,sns93,Sensor de Temperatura,1.67,flh93,Vazamento de Pressão,2024-06-12,Temperatura acima do limite,tec93,Carlos Silva,prc93,Resfriamento do Equipamento
+eqp94,Bomba Hidráulica,cmp94,Válvula de Pressão,sns94,Sensor de Pressão,1.26,flh94,Falha por Vibração Excedente,2024-09-29,Excesso de vibração detectado,tec94,Carlos Silva,prc94,Vedação da Válvula
+eqp95,Compressor de Ar,cmp95,Rolamento Frontal,sns95,Sensor de Temperatura,1.02,flh95,Vazamento de Pressão,2025-01-04,Excesso de vibração detectado,tec95,Ana Lima,prc95,Resfriamento do Equipamento
+eqp96,Compressor de Ar,cmp96,Válvula de Pressão,sns96,Sensor de Temperatura,0.72,flh96,Vazamento de Pressão,2024-08-03,Perda de pressão no componente,tec96,Carlos Silva,prc96,Troca de Rolamento
+eqp97,Motor Principal,cmp97,Engrenagem,sns97,Sensor de Vibração,0.89,flh97,Superaquecimento,2023-11-18,Perda de pressão no componente,tec97,João Pereira,prc97,Troca de Rolamento
+eqp98,Bomba Hidráulica,cmp98,Rolamento Frontal,sns98,Sensor de Temperatura,0.87,flh98,Vazamento de Pressão,2024-12-03,Excesso de vibração detectado,tec98,Carlos Silva,prc98,Vedação da Válvula
+eqp99,Compressor de Ar,cmp99,Rolamento Frontal,sns99,Sensor de Vibração,1.42,flh99,Falha por Vibração Excedente,2023-05-20,Excesso de vibração detectado,tec99,Carlos Silva,prc99,Resfriamento do Equipamento
+eqp100,Motor Principal,cmp100,Válvula de Pressão,sns100,Sensor de Temperatura,1.98,flh100,Superaquecimento,2023-02-08,Temperatura acima do limite,tec100,Ana Lima,prc100,Resfriamento do Equipamento
+eqp101,Bomba Hidráulica,cmp101,Válvula de Pressão,sns101,Sensor de Pressão,2.0,flh101,Falha por Vibração Excedente,2023-10-13,Temperatura acima do limite,tec101,Ana Lima,prc101,Resfriamento do Equipamento
+eqp102,Compressor de Ar,cmp102,Rolamento Frontal,sns102,Sensor de Temperatura,1.4,flh102,Superaquecimento,2024-05-19,Temperatura acima do limite,tec102,Ana Lima,prc102,Troca de Rolamento
+eqp103,Bomba Hidráulica,cmp103,Engrenagem,sns103,Sensor de Vibração,1.49,flh103,Superaquecimento,2023-10-19,Perda de pressão no componente,tec103,João Pereira,prc103,Troca de Rolamento
+eqp104,Compressor de Ar,cmp104,Válvula de Pressão,sns104,Sensor de Temperatura,1.19,flh104,Vazamento de Pressão,2023-01-19,Excesso de vibração detectado,tec104,João Pereira,prc104,Resfriamento do Equipamento
+eqp105,Motor Principal,cmp105,Rolamento Frontal,sns105,Sensor de Pressão,1.39,flh105,Vazamento de Pressão,2025-03-09,Perda de pressão no componente,tec105,Ana Lima,prc105,Resfriamento do Equipamento
+eqp106,Bomba Hidráulica,cmp106,Engrenagem,sns106,Sensor de Vibração,0.95,flh106,Falha por Vibração Excedente,2023-12-23,Perda de pressão no componente,tec106,João Pereira,prc106,Resfriamento do Equipamento
+eqp107,Bomba Hidráulica,cmp107,Válvula de Pressão,sns107,Sensor de Vibração,1.36,flh107,Vazamento de Pressão,2024-06-03,Excesso de vibração detectado,tec107,Ana Lima,prc107,Troca de Rolamento
+eqp108,Compressor de Ar,cmp108,Engrenagem,sns108,Sensor de Vibração,0.88,flh108,Falha por Vibração Excedente,2023-04-27,Excesso de vibração detectado,tec108,Carlos Silva,prc108,Vedação da Válvula
+eqp109,Motor Principal,cmp109,Válvula de Pressão,sns109,Sensor de Pressão,1.44,flh109,Superaquecimento,2024-01-20,Excesso de vibração detectado,tec109,Ana Lima,prc109,Vedação da Válvula
+eqp110,Bomba Hidráulica,cmp110,Rolamento Frontal,sns110,Sensor de Temperatura,1.68,flh110,Vazamento de Pressão,2024-06-16,Excesso de vibração detectado,tec110,João Pereira,prc110,Vedação da Válvula
+eqp111,Bomba Hidráulica,cmp111,Engrenagem,sns111,Sensor de Vibração,0.83,flh111,Falha por Vibração Excedente,2024-05-14,Perda de pressão no componente,tec111,João Pereira,prc111,Resfriamento do Equipamento
+eqp112,Bomba Hidráulica,cmp112,Válvula de Pressão,sns112,Sensor de Pressão,1.78,flh112,Vazamento de Pressão,2024-02-21,Temperatura acima do limite,tec112,João Pereira,prc112,Troca de Rolamento
+eqp113,Bomba Hidráulica,cmp113,Rolamento Frontal,sns113,Sensor de Pressão,0.69,flh113,Falha por Vibração Excedente,2023-12-17,Temperatura acima do limite,tec113,Ana Lima,prc113,Troca de Rolamento
+eqp114,Bomba Hidráulica,cmp114,Rolamento Frontal,sns114,Sensor de Vibração,1.02,flh114,Falha por Vibração Excedente,2024-08-22,Perda de pressão no componente,tec114,João Pereira,prc114,Vedação da Válvula
+eqp115,Bomba Hidráulica,cmp115,Válvula de Pressão,sns115,Sensor de Temperatura,1.21,flh115,Vazamento de Pressão,2024-10-27,Perda de pressão no componente,tec115,João Pereira,prc115,Resfriamento do Equipamento
+eqp116,Bomba Hidráulica,cmp116,Rolamento Frontal,sns116,Sensor de Temperatura,1.31,flh116,Falha por Vibração Excedente,2024-10-25,Excesso de vibração detectado,tec116,João Pereira,prc116,Resfriamento do Equipamento
+eqp117,Motor Principal,cmp117,Engrenagem,sns117,Sensor de Temperatura,0.97,flh117,Vazamento de Pressão,2023-09-04,Temperatura acima do limite,tec117,João Pereira,prc117,Vedação da Válvula
+eqp118,Compressor de Ar,cmp118,Válvula de Pressão,sns118,Sensor de Temperatura,0.86,flh118,Superaquecimento,2024-01-12,Excesso de vibração detectado,tec118,João Pereira,prc118,Resfriamento do Equipamento
+eqp119,Motor Principal,cmp119,Engrenagem,sns119,Sensor de Vibração,0.83,flh119,Superaquecimento,2024-10-03,Perda de pressão no componente,tec119,Carlos Silva,prc119,Resfriamento do Equipamento
+eqp120,Compressor de Ar,cmp120,Engrenagem,sns120,Sensor de Temperatura,1.49,flh120,Falha por Vibração Excedente,2023-07-13,Excesso de vibração detectado,tec120,João Pereira,prc120,Vedação da Válvula
+eqp121,Bomba Hidráulica,cmp121,Válvula de Pressão,sns121,Sensor de Temperatura,1.76,flh121,Falha por Vibração Excedente,2023-02-06,Temperatura acima do limite,tec121,Ana Lima,prc121,Resfriamento do Equipamento
+eqp122,Motor Principal,cmp122,Válvula de Pressão,sns122,Sensor de Pressão,0.65,flh122,Superaquecimento,2025-02-08,Perda de pressão no componente,tec122,Carlos Silva,prc122,Troca de Rolamento
+eqp123,Compressor de Ar,cmp123,Rolamento Frontal,sns123,Sensor de Pressão,1.93,flh123,Superaquecimento,2023-09-10,Temperatura acima do limite,tec123,João Pereira,prc123,Troca de Rolamento
+eqp124,Bomba Hidráulica,cmp124,Válvula de Pressão,sns124,Sensor de Temperatura,0.88,flh124,Vazamento de Pressão,2024-08-21,Perda de pressão no componente,tec124,Carlos Silva,prc124,Troca de Rolamento
+eqp125,Motor Principal,cmp125,Válvula de Pressão,sns125,Sensor de Vibração,1.57,flh125,Vazamento de Pressão,2023-05-07,Perda de pressão no componente,tec125,João Pereira,prc125,Troca de Rolamento
+eqp126,Motor Principal,cmp126,Rolamento Frontal,sns126,Sensor de Vibração,1.22,flh126,Superaquecimento,2023-07-29,Excesso de vibração detectado,tec126,Carlos Silva,prc126,Troca de Rolamento
+eqp127,Compressor de Ar,cmp127,Rolamento Frontal,sns127,Sensor de Temperatura,1.77,flh127,Falha por Vibração Excedente,2024-08-20,Perda de pressão no componente,tec127,Ana Lima,prc127,Troca de Rolamento
+eqp128,Compressor de Ar,cmp128,Válvula de Pressão,sns128,Sensor de Pressão,1.93,flh128,Falha por Vibração Excedente,2024-03-15,Temperatura acima do limite,tec128,Ana Lima,prc128,Troca de Rolamento
+eqp129,Compressor de Ar,cmp129,Válvula de Pressão,sns129,Sensor de Pressão,1.27,flh129,Vazamento de Pressão,2024-02-14,Temperatura acima do limite,tec129,João Pereira,prc129,Resfriamento do Equipamento
+eqp130,Bomba Hidráulica,cmp130,Válvula de Pressão,sns130,Sensor de Pressão,0.88,flh130,Superaquecimento,2024-12-29,Excesso de vibração detectado,tec130,João Pereira,prc130,Resfriamento do Equipamento
+eqp131,Motor Principal,cmp131,Engrenagem,sns131,Sensor de Vibração,1.19,flh131,Falha por Vibração Excedente,2024-04-07,Perda de pressão no componente,tec131,João Pereira,prc131,Vedação da Válvula
+eqp132,Motor Principal,cmp132,Rolamento Frontal,sns132,Sensor de Vibração,1.49,flh132,Falha por Vibração Excedente,2023-04-20,Temperatura acima do limite,tec132,Carlos Silva,prc132,Vedação da Válvula
+eqp133,Compressor de Ar,cmp133,Rolamento Frontal,sns133,Sensor de Pressão,1.1,flh133,Falha por Vibração Excedente,2023-02-26,Perda de pressão no componente,tec133,João Pereira,prc133,Vedação da Válvula
+eqp134,Compressor de Ar,cmp134,Rolamento Frontal,sns134,Sensor de Pressão,0.78,flh134,Vazamento de Pressão,2023-03-02,Temperatura acima do limite,tec134,Ana Lima,prc134,Troca de Rolamento
+eqp135,Compressor de Ar,cmp135,Engrenagem,sns135,Sensor de Vibração,0.78,flh135,Superaquecimento,2023-08-15,Excesso de vibração detectado,tec135,João Pereira,prc135,Vedação da Válvula
+eqp136,Compressor de Ar,cmp136,Rolamento Frontal,sns136,Sensor de Temperatura,1.22,flh136,Falha por Vibração Excedente,2023-10-10,Excesso de vibração detectado,tec136,Ana Lima,prc136,Resfriamento do Equipamento
+eqp137,Motor Principal,cmp137,Engrenagem,sns137,Sensor de Vibração,1.94,flh137,Superaquecimento,2025-02-13,Temperatura acima do limite,tec137,João Pereira,prc137,Resfriamento do Equipamento
+eqp138,Bomba Hidráulica,cmp138,Válvula de Pressão,sns138,Sensor de Temperatura,0.88,flh138,Vazamento de Pressão,2023-03-26,Perda de pressão no componente,tec138,Ana Lima,prc138,Resfriamento do Equipamento
+eqp139,Bomba Hidráulica,cmp139,Rolamento Frontal,sns139,Sensor de Vibração,1.54,flh139,Vazamento de Pressão,2024-12-20,Excesso de vibração detectado,tec139,João Pereira,prc139,Resfriamento do Equipamento
+eqp140,Compressor de Ar,cmp140,Rolamento Frontal,sns140,Sensor de Temperatura,1.03,flh140,Superaquecimento,2023-10-04,Perda de pressão no componente,tec140,Ana Lima,prc140,Troca de Rolamento
+eqp141,Bomba Hidráulica,cmp141,Válvula de Pressão,sns141,Sensor de Temperatura,1.28,flh141,Vazamento de Pressão,2024-09-02,Temperatura acima do limite,tec141,Ana Lima,prc141,Vedação da Válvula
+eqp142,Motor Principal,cmp142,Válvula de Pressão,sns142,Sensor de Pressão,1.64,flh142,Vazamento de Pressão,2023-07-02,Excesso de vibração detectado,tec142,Ana Lima,prc142,Vedação da Válvula
+eqp143,Bomba Hidráulica,cmp143,Engrenagem,sns143,Sensor de Vibração,1.74,flh143,Falha por Vibração Excedente,2024-10-28,Temperatura acima do limite,tec143,João Pereira,prc143,Troca de Rolamento
+eqp144,Motor Principal,cmp144,Rolamento Frontal,sns144,Sensor de Vibração,1.07,flh144,Superaquecimento,2024-05-20,Excesso de vibração detectado,tec144,João Pereira,prc144,Vedação da Válvula
+eqp145,Motor Principal,cmp145,Válvula de Pressão,sns145,Sensor de Pressão,1.08,flh145,Vazamento de Pressão,2024-02-01,Temperatura acima do limite,tec145,Ana Lima,prc145,Troca de Rolamento
+eqp146,Compressor de Ar,cmp146,Válvula de Pressão,sns146,Sensor de Vibração,1.55,flh146,Superaquecimento,2023-11-30,Excesso de vibração detectado,tec146,João Pereira,prc146,Troca de Rolamento
+eqp147,Bomba Hidráulica,cmp147,Rolamento Frontal,sns147,Sensor de Temperatura,1.3,flh147,Falha por Vibração Excedente,2024-02-21,Temperatura acima do limite,tec147,Ana Lima,prc147,Vedação da Válvula
+eqp148,Bomba Hidráulica,cmp148,Rolamento Frontal,sns148,Sensor de Vibração,1.55,flh148,Falha por Vibração Excedente,2023-06-07,Temperatura acima do limite,tec148,Ana Lima,prc148,Vedação da Válvula
+eqp149,Bomba Hidráulica,cmp149,Válvula de Pressão,sns149,Sensor de Pressão,1.28,flh149,Falha por Vibração Excedente,2024-11-10,Excesso de vibração detectado,tec149,Carlos Silva,prc149,Resfriamento do Equipamento
+eqp150,Bomba Hidráulica,cmp150,Válvula de Pressão,sns150,Sensor de Vibração,1.36,flh150,Vazamento de Pressão,2025-02-27,Temperatura acima do limite,tec150,Carlos Silva,prc150,Troca de Rolamento
+eqp151,Compressor de Ar,cmp151,Rolamento Frontal,sns151,Sensor de Temperatura,0.65,flh151,Vazamento de Pressão,2024-08-15,Perda de pressão no componente,tec151,Ana Lima,prc151,Resfriamento do Equipamento
+eqp152,Bomba Hidráulica,cmp152,Válvula de Pressão,sns152,Sensor de Temperatura,1.99,flh152,Vazamento de Pressão,2024-05-14,Excesso de vibração detectado,tec152,Carlos Silva,prc152,Troca de Rolamento
+eqp153,Bomba Hidráulica,cmp153,Válvula de Pressão,sns153,Sensor de Pressão,0.79,flh153,Vazamento de Pressão,2024-12-21,Excesso de vibração detectado,tec153,Carlos Silva,prc153,Troca de Rolamento
+eqp154,Bomba Hidráulica,cmp154,Rolamento Frontal,sns154,Sensor de Vibração,1.75,flh154,Vazamento de Pressão,2024-05-29,Excesso de vibração detectado,tec154,Carlos Silva,prc154,Vedação da Válvula
+eqp155,Compressor de Ar,cmp155,Válvula de Pressão,sns155,Sensor de Temperatura,1.69,flh155,Falha por Vibração Excedente,2023-08-27,Perda de pressão no componente,tec155,Carlos Silva,prc155,Troca de Rolamento
+eqp156,Compressor de Ar,cmp156,Válvula de Pressão,sns156,Sensor de Temperatura,0.59,flh156,Falha por Vibração Excedente,2023-07-25,Perda de pressão no componente,tec156,Carlos Silva,prc156,Resfriamento do Equipamento
+eqp157,Motor Principal,cmp157,Rolamento Frontal,sns157,Sensor de Pressão,0.57,flh157,Vazamento de Pressão,2023-05-03,Excesso de vibração detectado,tec157,Ana Lima,prc157,Vedação da Válvula
+eqp158,Bomba Hidráulica,cmp158,Engrenagem,sns158,Sensor de Pressão,0.88,flh158,Vazamento de Pressão,2023-07-15,Temperatura acima do limite,tec158,João Pereira,prc158,Troca de Rolamento
+eqp159,Compressor de Ar,cmp159,Engrenagem,sns159,Sensor de Temperatura,1.54,flh159,Superaquecimento,2025-01-26,Excesso de vibração detectado,tec159,Ana Lima,prc159,Vedação da Válvula
+eqp160,Compressor de Ar,cmp160,Válvula de Pressão,sns160,Sensor de Temperatura,1.48,flh160,Falha por Vibração Excedente,2023-05-11,Temperatura acima do limite,tec160,João Pereira,prc160,Vedação da Válvula
+eqp161,Compressor de Ar,cmp161,Rolamento Frontal,sns161,Sensor de Temperatura,1.45,flh161,Falha por Vibração Excedente,2024-03-26,Perda de pressão no componente,tec161,João Pereira,prc161,Resfriamento do Equipamento
+eqp162,Compressor de Ar,cmp162,Válvula de Pressão,sns162,Sensor de Temperatura,0.92,flh162,Superaquecimento,2024-11-16,Perda de pressão no componente,tec162,João Pereira,prc162,Vedação da Válvula
+eqp163,Compressor de Ar,cmp163,Engrenagem,sns163,Sensor de Vibração,1.45,flh163,Superaquecimento,2024-04-08,Excesso de vibração detectado,tec163,Carlos Silva,prc163,Troca de Rolamento
+eqp164,Bomba Hidráulica,cmp164,Válvula de Pressão,sns164,Sensor de Pressão,1.87,flh164,Superaquecimento,2023-02-14,Excesso de vibração detectado,tec164,Ana Lima,prc164,Vedação da Válvula
+eqp165,Compressor de Ar,cmp165,Válvula de Pressão,sns165,Sensor de Vibração,0.74,flh165,Vazamento de Pressão,2023-05-23,Temperatura acima do limite,tec165,Carlos Silva,prc165,Troca de Rolamento
+eqp166,Compressor de Ar,cmp166,Válvula de Pressão,sns166,Sensor de Pressão,1.99,flh166,Superaquecimento,2024-05-10,Temperatura acima do limite,tec166,João Pereira,prc166,Troca de Rolamento
+eqp167,Bomba Hidráulica,cmp167,Válvula de Pressão,sns167,Sensor de Vibração,1.36,flh167,Falha por Vibração Excedente,2023-10-08,Excesso de vibração detectado,tec167,Ana Lima,prc167,Resfriamento do Equipamento
+eqp168,Bomba Hidráulica,cmp168,Rolamento Frontal,sns168,Sensor de Vibração,1.9,flh168,Vazamento de Pressão,2024-06-04,Temperatura acima do limite,tec168,João Pereira,prc168,Troca de Rolamento
+eqp169,Bomba Hidráulica,cmp169,Válvula de Pressão,sns169,Sensor de Vibração,1.99,flh169,Falha por Vibração Excedente,2024-07-10,Perda de pressão no componente,tec169,Ana Lima,prc169,Resfriamento do Equipamento
+eqp170,Bomba Hidráulica,cmp170,Engrenagem,sns170,Sensor de Temperatura,0.6,flh170,Vazamento de Pressão,2023-06-13,Excesso de vibração detectado,tec170,João Pereira,prc170,Troca de Rolamento
+eqp171,Bomba Hidráulica,cmp171,Rolamento Frontal,sns171,Sensor de Pressão,1.71,flh171,Falha por Vibração Excedente,2023-10-17,Temperatura acima do limite,tec171,Ana Lima,prc171,Troca de Rolamento
+eqp172,Compressor de Ar,cmp172,Engrenagem,sns172,Sensor de Temperatura,0.92,flh172,Vazamento de Pressão,2024-11-14,Excesso de vibração detectado,tec172,João Pereira,prc172,Vedação da Válvula
+eqp173,Bomba Hidráulica,cmp173,Válvula de Pressão,sns173,Sensor de Pressão,0.77,flh173,Falha por Vibração Excedente,2023-08-02,Perda de pressão no componente,tec173,Carlos Silva,prc173,Troca de Rolamento
+eqp174,Bomba Hidráulica,cmp174,Válvula de Pressão,sns174,Sensor de Temperatura,1.11,flh174,Vazamento de Pressão,2024-03-22,Perda de pressão no componente,tec174,Carlos Silva,prc174,Resfriamento do Equipamento
+eqp175,Bomba Hidráulica,cmp175,Rolamento Frontal,sns175,Sensor de Temperatura,1.78,flh175,Falha por Vibração Excedente,2024-10-22,Perda de pressão no componente,tec175,Ana Lima,prc175,Vedação da Válvula
+eqp176,Motor Principal,cmp176,Válvula de Pressão,sns176,Sensor de Temperatura,1.61,flh176,Superaquecimento,2024-06-19,Temperatura acima do limite,tec176,Carlos Silva,prc176,Vedação da Válvula
+eqp177,Motor Principal,cmp177,Engrenagem,sns177,Sensor de Vibração,0.51,flh177,Falha por Vibração Excedente,2024-02-09,Excesso de vibração detectado,tec177,Ana Lima,prc177,Resfriamento do Equipamento
+eqp178,Compressor de Ar,cmp178,Válvula de Pressão,sns178,Sensor de Temperatura,0.97,flh178,Superaquecimento,2023-06-18,Temperatura acima do limite,tec178,Ana Lima,prc178,Resfriamento do Equipamento
+eqp179,Motor Principal,cmp179,Engrenagem,sns179,Sensor de Vibração,1.21,flh179,Vazamento de Pressão,2024-06-06,Excesso de vibração detectado,tec179,João Pereira,prc179,Troca de Rolamento
+eqp180,Compressor de Ar,cmp180,Rolamento Frontal,sns180,Sensor de Temperatura,0.76,flh180,Falha por Vibração Excedente,2023-10-28,Temperatura acima do limite,tec180,Ana Lima,prc180,Troca de Rolamento
+eqp181,Compressor de Ar,cmp181,Válvula de Pressão,sns181,Sensor de Pressão,1.93,flh181,Falha por Vibração Excedente,2024-07-04,Excesso de vibração detectado,tec181,Carlos Silva,prc181,Vedação da Válvula
+eqp182,Compressor de Ar,cmp182,Engrenagem,sns182,Sensor de Pressão,1.01,flh182,Superaquecimento,2023-01-08,Excesso de vibração detectado,tec182,Carlos Silva,prc182,Vedação da Válvula
+eqp183,Bomba Hidráulica,cmp183,Válvula de Pressão,sns183,Sensor de Temperatura,0.98,flh183,Vazamento de Pressão,2023-02-03,Perda de pressão no componente,tec183,Carlos Silva,prc183,Troca de Rolamento
+eqp184,Motor Principal,cmp184,Rolamento Frontal,sns184,Sensor de Temperatura,0.96,flh184,Superaquecimento,2024-08-04,Excesso de vibração detectado,tec184,Carlos Silva,prc184,Resfriamento do Equipamento
+eqp185,Compressor de Ar,cmp185,Rolamento Frontal,sns185,Sensor de Pressão,1.05,flh185,Vazamento de Pressão,2024-06-29,Temperatura acima do limite,tec185,João Pereira,prc185,Troca de Rolamento
+eqp186,Compressor de Ar,cmp186,Rolamento Frontal,sns186,Sensor de Pressão,1.56,flh186,Falha por Vibração Excedente,2023-08-04,Excesso de vibração detectado,tec186,João Pereira,prc186,Resfriamento do Equipamento
+eqp187,Motor Principal,cmp187,Válvula de Pressão,sns187,Sensor de Temperatura,1.21,flh187,Falha por Vibração Excedente,2023-04-09,Perda de pressão no componente,tec187,João Pereira,prc187,Vedação da Válvula
+eqp188,Bomba Hidráulica,cmp188,Rolamento Frontal,sns188,Sensor de Pressão,0.79,flh188,Vazamento de Pressão,2023-04-11,Excesso de vibração detectado,tec188,Ana Lima,prc188,Vedação da Válvula
+eqp189,Bomba Hidráulica,cmp189,Rolamento Frontal,sns189,Sensor de Pressão,0.67,flh189,Vazamento de Pressão,2024-10-22,Temperatura acima do limite,tec189,Ana Lima,prc189,Vedação da Válvula
+eqp190,Compressor de Ar,cmp190,Engrenagem,sns190,Sensor de Pressão,0.58,flh190,Superaquecimento,2024-03-21,Temperatura acima do limite,tec190,Carlos Silva,prc190,Troca de Rolamento
+eqp191,Motor Principal,cmp191,Válvula de Pressão,sns191,Sensor de Pressão,1.92,flh191,Superaquecimento,2023-11-27,Temperatura acima do limite,tec191,João Pereira,prc191,Troca de Rolamento
+eqp192,Compressor de Ar,cmp192,Rolamento Frontal,sns192,Sensor de Vibração,0.53,flh192,Falha por Vibração Excedente,2023-11-21,Excesso de vibração detectado,tec192,Carlos Silva,prc192,Troca de Rolamento
+eqp193,Compressor de Ar,cmp193,Válvula de Pressão,sns193,Sensor de Temperatura,0.91,flh193,Superaquecimento,2023-12-02,Excesso de vibração detectado,tec193,João Pereira,prc193,Troca de Rolamento
+eqp194,Compressor de Ar,cmp194,Rolamento Frontal,sns194,Sensor de Vibração,0.51,flh194,Vazamento de Pressão,2024-01-09,Perda de pressão no componente,tec194,Carlos Silva,prc194,Resfriamento do Equipamento
+eqp195,Motor Principal,cmp195,Rolamento Frontal,sns195,Sensor de Temperatura,0.96,flh195,Superaquecimento,2023-12-14,Excesso de vibração detectado,tec195,Ana Lima,prc195,Troca de Rolamento
+eqp196,Motor Principal,cmp196,Válvula de Pressão,sns196,Sensor de Temperatura,1.85,flh196,Falha por Vibração Excedente,2023-12-30,Temperatura acima do limite,tec196,Ana Lima,prc196,Troca de Rolamento
+eqp197,Bomba Hidráulica,cmp197,Engrenagem,sns197,Sensor de Pressão,0.81,flh197,Falha por Vibração Excedente,2024-10-06,Temperatura acima do limite,tec197,João Pereira,prc197,Resfriamento do Equipamento
+eqp198,Compressor de Ar,cmp198,Engrenagem,sns198,Sensor de Temperatura,1.82,flh198,Vazamento de Pressão,2023-03-02,Excesso de vibração detectado,tec198,Carlos Silva,prc198,Troca de Rolamento
+eqp199,Motor Principal,cmp199,Válvula de Pressão,sns199,Sensor de Pressão,0.6,flh199,Superaquecimento,2024-05-03,Excesso de vibração detectado,tec199,Carlos Silva,prc199,Vedação da Válvula
+eqp200,Compressor de Ar,cmp200,Rolamento Frontal,sns200,Sensor de Vibração,1.78,flh200,Vazamento de Pressão,2024-11-14,Perda de pressão no componente,tec200,Carlos Silva,prc200,Vedação da Válvula
+eqp201,Motor Principal,cmp201,Válvula de Pressão,sns201,Sensor de Vibração,0.87,flh201,Vazamento de Pressão,2024-07-01,Temperatura acima do limite,tec201,Ana Lima,prc201,Troca de Rolamento
+eqp202,Bomba Hidráulica,cmp202,Válvula de Pressão,sns202,Sensor de Pressão,1.92,flh202,Falha por Vibração Excedente,2023-05-30,Temperatura acima do limite,tec202,João Pereira,prc202,Vedação da Válvula
+eqp203,Compressor de Ar,cmp203,Rolamento Frontal,sns203,Sensor de Pressão,1.31,flh203,Vazamento de Pressão,2024-03-02,Temperatura acima do limite,tec203,Ana Lima,prc203,Resfriamento do Equipamento
+eqp204,Motor Principal,cmp204,Rolamento Frontal,sns204,Sensor de Vibração,0.99,flh204,Superaquecimento,2024-09-13,Temperatura acima do limite,tec204,Ana Lima,prc204,Troca de Rolamento
+eqp205,Motor Principal,cmp205,Válvula de Pressão,sns205,Sensor de Vibração,1.51,flh205,Falha por Vibração Excedente,2025-01-06,Excesso de vibração detectado,tec205,Carlos Silva,prc205,Troca de Rolamento
+eqp206,Motor Principal,cmp206,Válvula de Pressão,sns206,Sensor de Pressão,0.75,flh206,Falha por Vibração Excedente,2023-08-29,Perda de pressão no componente,tec206,João Pereira,prc206,Troca de Rolamento
+eqp207,Bomba Hidráulica,cmp207,Válvula de Pressão,sns207,Sensor de Temperatura,1.77,flh207,Vazamento de Pressão,2025-01-14,Perda de pressão no componente,tec207,João Pereira,prc207,Troca de Rolamento
+eqp208,Motor Principal,cmp208,Rolamento Frontal,sns208,Sensor de Pressão,1.47,flh208,Superaquecimento,2023-03-01,Excesso de vibração detectado,tec208,Ana Lima,prc208,Vedação da Válvula
+eqp209,Bomba Hidráulica,cmp209,Válvula de Pressão,sns209,Sensor de Pressão,0.78,flh209,Superaquecimento,2024-06-19,Perda de pressão no componente,tec209,João Pereira,prc209,Vedação da Válvula
+eqp210,Compressor de Ar,cmp210,Válvula de Pressão,sns210,Sensor de Pressão,1.65,flh210,Falha por Vibração Excedente,2024-01-29,Perda de pressão no componente,tec210,Ana Lima,prc210,Vedação da Válvula
+eqp211,Compressor de Ar,cmp211,Rolamento Frontal,sns211,Sensor de Pressão,1.21,flh211,Superaquecimento,2023-07-24,Excesso de vibração detectado,tec211,João Pereira,prc211,Resfriamento do Equipamento
+eqp212,Motor Principal,cmp212,Rolamento Frontal,sns212,Sensor de Temperatura,1.76,flh212,Falha por Vibração Excedente,2024-08-29,Excesso de vibração detectado,tec212,Carlos Silva,prc212,Vedação da Válvula
+eqp213,Motor Principal,cmp213,Engrenagem,sns213,Sensor de Vibração,1.99,flh213,Superaquecimento,2023-10-23,Temperatura acima do limite,tec213,Carlos Silva,prc213,Vedação da Válvula
+eqp214,Motor Principal,cmp214,Rolamento Frontal,sns214,Sensor de Temperatura,1.49,flh214,Superaquecimento,2023-04-24,Temperatura acima do limite,tec214,Carlos Silva,prc214,Resfriamento do Equipamento
+eqp215,Motor Principal,cmp215,Rolamento Frontal,sns215,Sensor de Pressão,0.53,flh215,Falha por Vibração Excedente,2023-11-22,Excesso de vibração detectado,tec215,João Pereira,prc215,Troca de Rolamento
+eqp216,Compressor de Ar,cmp216,Rolamento Frontal,sns216,Sensor de Pressão,1.16,flh216,Falha por Vibração Excedente,2024-07-29,Perda de pressão no componente,tec216,Carlos Silva,prc216,Resfriamento do Equipamento
+eqp217,Compressor de Ar,cmp217,Válvula de Pressão,sns217,Sensor de Temperatura,0.74,flh217,Vazamento de Pressão,2025-03-13,Excesso de vibração detectado,tec217,João Pereira,prc217,Troca de Rolamento
+eqp218,Motor Principal,cmp218,Rolamento Frontal,sns218,Sensor de Temperatura,1.28,flh218,Vazamento de Pressão,2023-09-10,Temperatura acima do limite,tec218,João Pereira,prc218,Vedação da Válvula
+eqp219,Bomba Hidráulica,cmp219,Engrenagem,sns219,Sensor de Temperatura,0.87,flh219,Vazamento de Pressão,2024-08-12,Perda de pressão no componente,tec219,João Pereira,prc219,Resfriamento do Equipamento
+eqp220,Bomba Hidráulica,cmp220,Válvula de Pressão,sns220,Sensor de Temperatura,1.98,flh220,Vazamento de Pressão,2025-01-15,Excesso de vibração detectado,tec220,Carlos Silva,prc220,Troca de Rolamento
+eqp221,Bomba Hidráulica,cmp221,Válvula de Pressão,sns221,Sensor de Pressão,1.56,flh221,Vazamento de Pressão,2023-04-22,Temperatura acima do limite,tec221,Carlos Silva,prc221,Vedação da Válvula
+eqp222,Motor Principal,cmp222,Válvula de Pressão,sns222,Sensor de Pressão,1.21,flh222,Vazamento de Pressão,2025-03-04,Temperatura acima do limite,tec222,Ana Lima,prc222,Vedação da Válvula
+eqp223,Bomba Hidráulica,cmp223,Rolamento Frontal,sns223,Sensor de Temperatura,1.74,flh223,Vazamento de Pressão,2023-12-03,Excesso de vibração detectado,tec223,Carlos Silva,prc223,Troca de Rolamento
+eqp224,Motor Principal,cmp224,Válvula de Pressão,sns224,Sensor de Pressão,1.17,flh224,Vazamento de Pressão,2023-02-18,Perda de pressão no componente,tec224,Carlos Silva,prc224,Troca de Rolamento
+eqp225,Motor Principal,cmp225,Rolamento Frontal,sns225,Sensor de Pressão,1.02,flh225,Superaquecimento,2023-04-12,Excesso de vibração detectado,tec225,João Pereira,prc225,Vedação da Válvula
+eqp226,Compressor de Ar,cmp226,Rolamento Frontal,sns226,Sensor de Vibração,1.46,flh226,Superaquecimento,2023-05-13,Temperatura acima do limite,tec226,Carlos Silva,prc226,Vedação da Válvula
+eqp227,Motor Principal,cmp227,Rolamento Frontal,sns227,Sensor de Pressão,0.91,flh227,Falha por Vibração Excedente,2023-04-06,Excesso de vibração detectado,tec227,João Pereira,prc227,Troca de Rolamento
+eqp228,Bomba Hidráulica,cmp228,Rolamento Frontal,sns228,Sensor de Temperatura,1.97,flh228,Superaquecimento,2023-11-29,Excesso de vibração detectado,tec228,Ana Lima,prc228,Troca de Rolamento
+eqp229,Compressor de Ar,cmp229,Rolamento Frontal,sns229,Sensor de Temperatura,1.6,flh229,Falha por Vibração Excedente,2025-03-31,Temperatura acima do limite,tec229,Ana Lima,prc229,Resfriamento do Equipamento
+eqp230,Motor Principal,cmp230,Rolamento Frontal,sns230,Sensor de Temperatura,1.5,flh230,Superaquecimento,2023-08-06,Excesso de vibração detectado,tec230,Ana Lima,prc230,Troca de Rolamento
+eqp231,Bomba Hidráulica,cmp231,Rolamento Frontal,sns231,Sensor de Vibração,1.99,flh231,Vazamento de Pressão,2025-01-12,Excesso de vibração detectado,tec231,Ana Lima,prc231,Vedação da Válvula
+eqp232,Bomba Hidráulica,cmp232,Válvula de Pressão,sns232,Sensor de Vibração,1.03,flh232,Vazamento de Pressão,2023-04-12,Temperatura acima do limite,tec232,Carlos Silva,prc232,Resfriamento do Equipamento
+eqp233,Compressor de Ar,cmp233,Válvula de Pressão,sns233,Sensor de Vibração,1.01,flh233,Falha por Vibração Excedente,2024-02-15,Temperatura acima do limite,tec233,Carlos Silva,prc233,Troca de Rolamento
+eqp234,Compressor de Ar,cmp234,Válvula de Pressão,sns234,Sensor de Pressão,0.59,flh234,Vazamento de Pressão,2024-09-17,Temperatura acima do limite,tec234,Ana Lima,prc234,Troca de Rolamento
+eqp235,Motor Principal,cmp235,Rolamento Frontal,sns235,Sensor de Temperatura,1.72,flh235,Falha por Vibração Excedente,2023-09-28,Perda de pressão no componente,tec235,Ana Lima,prc235,Resfriamento do Equipamento
+eqp236,Compressor de Ar,cmp236,Rolamento Frontal,sns236,Sensor de Pressão,1.61,flh236,Falha por Vibração Excedente,2023-08-17,Temperatura acima do limite,tec236,João Pereira,prc236,Vedação da Válvula
+eqp237,Motor Principal,cmp237,Válvula de Pressão,sns237,Sensor de Pressão,1.66,flh237,Superaquecimento,2023-09-02,Temperatura acima do limite,tec237,João Pereira,prc237,Troca de Rolamento
+eqp238,Bomba Hidráulica,cmp238,Válvula de Pressão,sns238,Sensor de Vibração,0.68,flh238,Falha por Vibração Excedente,2024-10-07,Temperatura acima do limite,tec238,João Pereira,prc238,Troca de Rolamento
+eqp239,Motor Principal,cmp239,Engrenagem,sns239,Sensor de Pressão,0.56,flh239,Vazamento de Pressão,2024-01-04,Perda de pressão no componente,tec239,João Pereira,prc239,Troca de Rolamento
+eqp240,Motor Principal,cmp240,Rolamento Frontal,sns240,Sensor de Temperatura,0.83,flh240,Vazamento de Pressão,2024-02-13,Perda de pressão no componente,tec240,Ana Lima,prc240,Vedação da Válvula
+eqp241,Bomba Hidráulica,cmp241,Engrenagem,sns241,Sensor de Temperatura,1.38,flh241,Vazamento de Pressão,2024-09-14,Excesso de vibração detectado,tec241,João Pereira,prc241,Resfriamento do Equipamento
+eqp242,Compressor de Ar,cmp242,Engrenagem,sns242,Sensor de Temperatura,1.11,flh242,Vazamento de Pressão,2023-10-03,Temperatura acima do limite,tec242,João Pereira,prc242,Vedação da Válvula
+eqp243,Motor Principal,cmp243,Engrenagem,sns243,Sensor de Vibração,1.27,flh243,Vazamento de Pressão,2024-01-02,Temperatura acima do limite,tec243,Carlos Silva,prc243,Vedação da Válvula
+eqp244,Motor Principal,cmp244,Válvula de Pressão,sns244,Sensor de Pressão,1.3,flh244,Falha por Vibração Excedente,2023-01-14,Temperatura acima do limite,tec244,Carlos Silva,prc244,Vedação da Válvula
+eqp245,Motor Principal,cmp245,Engrenagem,sns245,Sensor de Pressão,0.96,flh245,Falha por Vibração Excedente,2023-06-23,Temperatura acima do limite,tec245,João Pereira,prc245,Troca de Rolamento
+eqp246,Motor Principal,cmp246,Rolamento Frontal,sns246,Sensor de Temperatura,1.39,flh246,Superaquecimento,2023-09-08,Perda de pressão no componente,tec246,Ana Lima,prc246,Vedação da Válvula
+eqp247,Compressor de Ar,cmp247,Rolamento Frontal,sns247,Sensor de Temperatura,1.1,flh247,Falha por Vibração Excedente,2023-05-04,Temperatura acima do limite,tec247,Ana Lima,prc247,Vedação da Válvula
+eqp248,Motor Principal,cmp248,Rolamento Frontal,sns248,Sensor de Temperatura,1.48,flh248,Vazamento de Pressão,2024-08-23,Temperatura acima do limite,tec248,Ana Lima,prc248,Resfriamento do Equipamento
+eqp249,Compressor de Ar,cmp249,Válvula de Pressão,sns249,Sensor de Vibração,1.2,flh249,Vazamento de Pressão,2024-02-02,Temperatura acima do limite,tec249,Ana Lima,prc249,Troca de Rolamento
+eqp250,Bomba Hidráulica,cmp250,Rolamento Frontal,sns250,Sensor de Temperatura,1.25,flh250,Vazamento de Pressão,2023-08-21,Excesso de vibração detectado,tec250,Carlos Silva,prc250,Resfriamento do Equipamento
+eqp251,Bomba Hidráulica,cmp251,Válvula de Pressão,sns251,Sensor de Vibração,1.61,flh251,Superaquecimento,2024-10-16,Perda de pressão no componente,tec251,João Pereira,prc251,Vedação da Válvula
+eqp252,Compressor de Ar,cmp252,Válvula de Pressão,sns252,Sensor de Pressão,1.97,flh252,Falha por Vibração Excedente,2023-03-05,Perda de pressão no componente,tec252,Ana Lima,prc252,Troca de Rolamento
+eqp253,Bomba Hidráulica,cmp253,Válvula de Pressão,sns253,Sensor de Pressão,0.58,flh253,Falha por Vibração Excedente,2023-06-10,Temperatura acima do limite,tec253,Carlos Silva,prc253,Vedação da Válvula
+eqp254,Motor Principal,cmp254,Rolamento Frontal,sns254,Sensor de Pressão,0.83,flh254,Superaquecimento,2023-03-10,Perda de pressão no componente,tec254,Ana Lima,prc254,Resfriamento do Equipamento
+eqp255,Compressor de Ar,cmp255,Válvula de Pressão,sns255,Sensor de Vibração,1.72,flh255,Vazamento de Pressão,2024-01-28,Excesso de vibração detectado,tec255,Carlos Silva,prc255,Vedação da Válvula
+eqp256,Bomba Hidráulica,cmp256,Engrenagem,sns256,Sensor de Vibração,1.66,flh256,Falha por Vibração Excedente,2024-03-18,Perda de pressão no componente,tec256,Ana Lima,prc256,Vedação da Válvula
+eqp257,Bomba Hidráulica,cmp257,Válvula de Pressão,sns257,Sensor de Pressão,1.72,flh257,Superaquecimento,2023-04-01,Excesso de vibração detectado,tec257,Carlos Silva,prc257,Resfriamento do Equipamento
+eqp258,Motor Principal,cmp258,Rolamento Frontal,sns258,Sensor de Temperatura,1.76,flh258,Superaquecimento,2023-02-23,Temperatura acima do limite,tec258,Carlos Silva,prc258,Vedação da Válvula
+eqp259,Compressor de Ar,cmp259,Rolamento Frontal,sns259,Sensor de Pressão,1.52,flh259,Vazamento de Pressão,2024-05-02,Temperatura acima do limite,tec259,João Pereira,prc259,Resfriamento do Equipamento
+eqp260,Motor Principal,cmp260,Válvula de Pressão,sns260,Sensor de Vibração,1.31,flh260,Vazamento de Pressão,2023-04-14,Excesso de vibração detectado,tec260,João Pereira,prc260,Troca de Rolamento
+eqp261,Compressor de Ar,cmp261,Engrenagem,sns261,Sensor de Vibração,0.82,flh261,Superaquecimento,2025-01-27,Temperatura acima do limite,tec261,João Pereira,prc261,Troca de Rolamento
+eqp262,Motor Principal,cmp262,Rolamento Frontal,sns262,Sensor de Vibração,1.9,flh262,Superaquecimento,2023-05-24,Excesso de vibração detectado,tec262,Carlos Silva,prc262,Vedação da Válvula
+eqp263,Motor Principal,cmp263,Engrenagem,sns263,Sensor de Pressão,0.8,flh263,Superaquecimento,2024-04-10,Excesso de vibração detectado,tec263,Carlos Silva,prc263,Resfriamento do Equipamento
+eqp264,Bomba Hidráulica,cmp264,Válvula de Pressão,sns264,Sensor de Pressão,2.0,flh264,Superaquecimento,2024-04-28,Excesso de vibração detectado,tec264,Carlos Silva,prc264,Resfriamento do Equipamento
+eqp265,Bomba Hidráulica,cmp265,Engrenagem,sns265,Sensor de Temperatura,1.96,flh265,Vazamento de Pressão,2025-03-24,Temperatura acima do limite,tec265,João Pereira,prc265,Vedação da Válvula
+eqp266,Bomba Hidráulica,cmp266,Válvula de Pressão,sns266,Sensor de Vibração,0.83,flh266,Vazamento de Pressão,2023-11-17,Excesso de vibração detectado,tec266,Ana Lima,prc266,Resfriamento do Equipamento
+eqp267,Bomba Hidráulica,cmp267,Válvula de Pressão,sns267,Sensor de Vibração,1.03,flh267,Superaquecimento,2025-03-16,Excesso de vibração detectado,tec267,João Pereira,prc267,Vedação da Válvula
+eqp268,Motor Principal,cmp268,Engrenagem,sns268,Sensor de Vibração,1.46,flh268,Superaquecimento,2024-05-21,Temperatura acima do limite,tec268,Carlos Silva,prc268,Troca de Rolamento
+eqp269,Bomba Hidráulica,cmp269,Rolamento Frontal,sns269,Sensor de Vibração,1.16,flh269,Superaquecimento,2024-11-09,Perda de pressão no componente,tec269,Ana Lima,prc269,Vedação da Válvula
+eqp270,Motor Principal,cmp270,Engrenagem,sns270,Sensor de Temperatura,1.99,flh270,Falha por Vibração Excedente,2024-03-20,Temperatura acima do limite,tec270,Ana Lima,prc270,Resfriamento do Equipamento
+eqp271,Bomba Hidráulica,cmp271,Engrenagem,sns271,Sensor de Temperatura,1.4,flh271,Vazamento de Pressão,2023-01-08,Excesso de vibração detectado,tec271,João Pereira,prc271,Vedação da Válvula
+eqp272,Compressor de Ar,cmp272,Válvula de Pressão,sns272,Sensor de Temperatura,0.87,flh272,Vazamento de Pressão,2023-02-12,Temperatura acima do limite,tec272,João Pereira,prc272,Troca de Rolamento
+eqp273,Compressor de Ar,cmp273,Rolamento Frontal,sns273,Sensor de Pressão,1.22,flh273,Falha por Vibração Excedente,2024-09-16,Temperatura acima do limite,tec273,João Pereira,prc273,Resfriamento do Equipamento
+eqp274,Motor Principal,cmp274,Rolamento Frontal,sns274,Sensor de Temperatura,1.24,flh274,Superaquecimento,2023-01-12,Perda de pressão no componente,tec274,Ana Lima,prc274,Resfriamento do Equipamento
+eqp275,Compressor de Ar,cmp275,Rolamento Frontal,sns275,Sensor de Temperatura,1.2,flh275,Falha por Vibração Excedente,2024-10-27,Excesso de vibração detectado,tec275,Ana Lima,prc275,Resfriamento do Equipamento
+eqp276,Bomba Hidráulica,cmp276,Engrenagem,sns276,Sensor de Pressão,1.61,flh276,Vazamento de Pressão,2025-01-19,Temperatura acima do limite,tec276,Carlos Silva,prc276,Resfriamento do Equipamento
+eqp277,Compressor de Ar,cmp277,Engrenagem,sns277,Sensor de Pressão,1.58,flh277,Vazamento de Pressão,2024-09-26,Temperatura acima do limite,tec277,Carlos Silva,prc277,Vedação da Válvula
+eqp278,Compressor de Ar,cmp278,Rolamento Frontal,sns278,Sensor de Vibração,0.64,flh278,Superaquecimento,2024-10-21,Excesso de vibração detectado,tec278,Ana Lima,prc278,Resfriamento do Equipamento
+eqp279,Bomba Hidráulica,cmp279,Rolamento Frontal,sns279,Sensor de Pressão,0.72,flh279,Falha por Vibração Excedente,2024-07-10,Temperatura acima do limite,tec279,João Pereira,prc279,Resfriamento do Equipamento
+eqp280,Motor Principal,cmp280,Válvula de Pressão,sns280,Sensor de Vibração,1.38,flh280,Vazamento de Pressão,2023-12-04,Temperatura acima do limite,tec280,João Pereira,prc280,Vedação da Válvula
+eqp281,Compressor de Ar,cmp281,Engrenagem,sns281,Sensor de Temperatura,1.09,flh281,Vazamento de Pressão,2023-06-25,Perda de pressão no componente,tec281,Ana Lima,prc281,Resfriamento do Equipamento
+eqp282,Motor Principal,cmp282,Engrenagem,sns282,Sensor de Temperatura,1.1,flh282,Vazamento de Pressão,2023-01-13,Temperatura acima do limite,tec282,João Pereira,prc282,Resfriamento do Equipamento
+eqp283,Motor Principal,cmp283,Válvula de Pressão,sns283,Sensor de Temperatura,0.96,flh283,Falha por Vibração Excedente,2023-12-18,Temperatura acima do limite,tec283,Carlos Silva,prc283,Resfriamento do Equipamento
+eqp284,Compressor de Ar,cmp284,Rolamento Frontal,sns284,Sensor de Vibração,1.56,flh284,Vazamento de Pressão,2023-05-30,Temperatura acima do limite,tec284,Carlos Silva,prc284,Troca de Rolamento
+eqp285,Compressor de Ar,cmp285,Válvula de Pressão,sns285,Sensor de Pressão,1.39,flh285,Falha por Vibração Excedente,2024-02-23,Perda de pressão no componente,tec285,Ana Lima,prc285,Troca de Rolamento
+eqp286,Bomba Hidráulica,cmp286,Engrenagem,sns286,Sensor de Vibração,0.94,flh286,Vazamento de Pressão,2024-05-28,Temperatura acima do limite,tec286,Ana Lima,prc286,Troca de Rolamento
+eqp287,Motor Principal,cmp287,Engrenagem,sns287,Sensor de Temperatura,1.8,flh287,Superaquecimento,2023-02-03,Temperatura acima do limite,tec287,Carlos Silva,prc287,Resfriamento do Equipamento
+eqp288,Bomba Hidráulica,cmp288,Válvula de Pressão,sns288,Sensor de Vibração,0.85,flh288,Superaquecimento,2023-10-23,Temperatura acima do limite,tec288,Ana Lima,prc288,Troca de Rolamento
+eqp289,Compressor de Ar,cmp289,Válvula de Pressão,sns289,Sensor de Temperatura,1.48,flh289,Superaquecimento,2023-10-29,Excesso de vibração detectado,tec289,Ana Lima,prc289,Troca de Rolamento
+eqp290,Bomba Hidráulica,cmp290,Rolamento Frontal,sns290,Sensor de Temperatura,0.94,flh290,Superaquecimento,2023-02-09,Excesso de vibração detectado,tec290,João Pereira,prc290,Resfriamento do Equipamento
+eqp291,Compressor de Ar,cmp291,Rolamento Frontal,sns291,Sensor de Pressão,1.71,flh291,Vazamento de Pressão,2024-03-24,Perda de pressão no componente,tec291,Carlos Silva,prc291,Resfriamento do Equipamento
+eqp292,Compressor de Ar,cmp292,Engrenagem,sns292,Sensor de Vibração,1.84,flh292,Falha por Vibração Excedente,2023-02-18,Perda de pressão no componente,tec292,Ana Lima,prc292,Troca de Rolamento
+eqp293,Bomba Hidráulica,cmp293,Válvula de Pressão,sns293,Sensor de Temperatura,1.91,flh293,Superaquecimento,2024-03-17,Excesso de vibração detectado,tec293,João Pereira,prc293,Vedação da Válvula
+eqp294,Motor Principal,cmp294,Válvula de Pressão,sns294,Sensor de Pressão,1.51,flh294,Superaquecimento,2023-10-18,Temperatura acima do limite,tec294,Carlos Silva,prc294,Vedação da Válvula
+eqp295,Compressor de Ar,cmp295,Rolamento Frontal,sns295,Sensor de Pressão,0.86,flh295,Vazamento de Pressão,2024-08-28,Perda de pressão no componente,tec295,Ana Lima,prc295,Vedação da Válvula
+eqp296,Bomba Hidráulica,cmp296,Válvula de Pressão,sns296,Sensor de Pressão,1.1,flh296,Falha por Vibração Excedente,2023-06-30,Excesso de vibração detectado,tec296,Ana Lima,prc296,Resfriamento do Equipamento
+eqp297,Bomba Hidráulica,cmp297,Engrenagem,sns297,Sensor de Pressão,1.07,flh297,Vazamento de Pressão,2023-06-24,Excesso de vibração detectado,tec297,Carlos Silva,prc297,Vedação da Válvula
+eqp298,Compressor de Ar,cmp298,Válvula de Pressão,sns298,Sensor de Vibração,0.64,flh298,Superaquecimento,2024-03-22,Excesso de vibração detectado,tec298,Carlos Silva,prc298,Resfriamento do Equipamento
+eqp299,Bomba Hidráulica,cmp299,Válvula de Pressão,sns299,Sensor de Temperatura,1.63,flh299,Vazamento de Pressão,2024-03-17,Temperatura acima do limite,tec299,Ana Lima,prc299,Troca de Rolamento
+eqp300,Compressor de Ar,cmp300,Válvula de Pressão,sns300,Sensor de Vibração,0.86,flh300,Vazamento de Pressão,2023-04-22,Temperatura acima do limite,tec300,João Pereira,prc300,Resfriamento do Equipamento
+eqp301,Compressor de Ar,cmp301,Rolamento Frontal,sns301,Sensor de Vibração,1.65,flh301,Vazamento de Pressão,2025-01-07,Perda de pressão no componente,tec301,João Pereira,prc301,Troca de Rolamento
+eqp302,Bomba Hidráulica,cmp302,Rolamento Frontal,sns302,Sensor de Pressão,1.59,flh302,Falha por Vibração Excedente,2023-03-20,Temperatura acima do limite,tec302,Carlos Silva,prc302,Troca de Rolamento
+eqp303,Motor Principal,cmp303,Rolamento Frontal,sns303,Sensor de Pressão,0.51,flh303,Falha por Vibração Excedente,2024-01-24,Perda de pressão no componente,tec303,Carlos Silva,prc303,Vedação da Válvula
+eqp304,Bomba Hidráulica,cmp304,Rolamento Frontal,sns304,Sensor de Temperatura,1.56,flh304,Vazamento de Pressão,2025-01-13,Excesso de vibração detectado,tec304,João Pereira,prc304,Vedação da Válvula
+eqp305,Bomba Hidráulica,cmp305,Rolamento Frontal,sns305,Sensor de Vibração,1.05,flh305,Superaquecimento,2024-12-15,Perda de pressão no componente,tec305,Carlos Silva,prc305,Resfriamento do Equipamento
+eqp306,Bomba Hidráulica,cmp306,Engrenagem,sns306,Sensor de Vibração,1.1,flh306,Vazamento de Pressão,2025-01-05,Excesso de vibração detectado,tec306,Ana Lima,prc306,Resfriamento do Equipamento
+eqp307,Compressor de Ar,cmp307,Válvula de Pressão,sns307,Sensor de Vibração,1.27,flh307,Superaquecimento,2024-06-20,Perda de pressão no componente,tec307,João Pereira,prc307,Resfriamento do Equipamento
+eqp308,Bomba Hidráulica,cmp308,Engrenagem,sns308,Sensor de Vibração,0.57,flh308,Superaquecimento,2023-04-15,Temperatura acima do limite,tec308,Carlos Silva,prc308,Resfriamento do Equipamento
+eqp309,Motor Principal,cmp309,Válvula de Pressão,sns309,Sensor de Pressão,1.17,flh309,Vazamento de Pressão,2024-08-18,Perda de pressão no componente,tec309,João Pereira,prc309,Troca de Rolamento
+eqp310,Compressor de Ar,cmp310,Rolamento Frontal,sns310,Sensor de Vibração,0.65,flh310,Vazamento de Pressão,2024-01-12,Perda de pressão no componente,tec310,João Pereira,prc310,Troca de Rolamento
+eqp311,Bomba Hidráulica,cmp311,Rolamento Frontal,sns311,Sensor de Vibração,1.85,flh311,Falha por Vibração Excedente,2023-05-03,Perda de pressão no componente,tec311,Carlos Silva,prc311,Troca de Rolamento
+eqp312,Compressor de Ar,cmp312,Válvula de Pressão,sns312,Sensor de Pressão,1.23,flh312,Superaquecimento,2023-09-13,Excesso de vibração detectado,tec312,Ana Lima,prc312,Troca de Rolamento
+eqp313,Bomba Hidráulica,cmp313,Rolamento Frontal,sns313,Sensor de Pressão,1.54,flh313,Superaquecimento,2024-03-24,Temperatura acima do limite,tec313,Ana Lima,prc313,Resfriamento do Equipamento
+eqp314,Motor Principal,cmp314,Rolamento Frontal,sns314,Sensor de Temperatura,1.17,flh314,Falha por Vibração Excedente,2024-08-19,Excesso de vibração detectado,tec314,João Pereira,prc314,Troca de Rolamento
+eqp315,Compressor de Ar,cmp315,Engrenagem,sns315,Sensor de Pressão,0.62,flh315,Vazamento de Pressão,2023-10-27,Perda de pressão no componente,tec315,João Pereira,prc315,Resfriamento do Equipamento
+eqp316,Motor Principal,cmp316,Engrenagem,sns316,Sensor de Pressão,1.57,flh316,Vazamento de Pressão,2024-08-02,Excesso de vibração detectado,tec316,João Pereira,prc316,Troca de Rolamento
+eqp317,Motor Principal,cmp317,Engrenagem,sns317,Sensor de Pressão,1.14,flh317,Falha por Vibração Excedente,2023-10-18,Excesso de vibração detectado,tec317,João Pereira,prc317,Vedação da Válvula
+eqp318,Bomba Hidráulica,cmp318,Engrenagem,sns318,Sensor de Temperatura,1.14,flh318,Superaquecimento,2025-02-14,Perda de pressão no componente,tec318,João Pereira,prc318,Resfriamento do Equipamento
+eqp319,Motor Principal,cmp319,Engrenagem,sns319,Sensor de Vibração,1.28,flh319,Falha por Vibração Excedente,2025-02-21,Perda de pressão no componente,tec319,Ana Lima,prc319,Vedação da Válvula
+eqp320,Compressor de Ar,cmp320,Engrenagem,sns320,Sensor de Vibração,1.58,flh320,Superaquecimento,2023-05-26,Excesso de vibração detectado,tec320,Ana Lima,prc320,Troca de Rolamento
+eqp321,Motor Principal,cmp321,Válvula de Pressão,sns321,Sensor de Vibração,1.58,flh321,Vazamento de Pressão,2024-01-05,Temperatura acima do limite,tec321,Ana Lima,prc321,Resfriamento do Equipamento
+eqp322,Compressor de Ar,cmp322,Engrenagem,sns322,Sensor de Pressão,1.59,flh322,Falha por Vibração Excedente,2024-06-10,Perda de pressão no componente,tec322,João Pereira,prc322,Vedação da Válvula
+eqp323,Bomba Hidráulica,cmp323,Engrenagem,sns323,Sensor de Temperatura,1.03,flh323,Superaquecimento,2023-06-06,Temperatura acima do limite,tec323,João Pereira,prc323,Vedação da Válvula
+eqp324,Compressor de Ar,cmp324,Rolamento Frontal,sns324,Sensor de Vibração,1.66,flh324,Falha por Vibração Excedente,2023-04-20,Perda de pressão no componente,tec324,Carlos Silva,prc324,Resfriamento do Equipamento
+eqp325,Bomba Hidráulica,cmp325,Rolamento Frontal,sns325,Sensor de Vibração,0.87,flh325,Falha por Vibração Excedente,2023-11-20,Excesso de vibração detectado,tec325,Ana Lima,prc325,Vedação da Válvula
+eqp326,Bomba Hidráulica,cmp326,Válvula de Pressão,sns326,Sensor de Temperatura,0.62,flh326,Falha por Vibração Excedente,2023-02-16,Temperatura acima do limite,tec326,João Pereira,prc326,Resfriamento do Equipamento
+eqp327,Motor Principal,cmp327,Engrenagem,sns327,Sensor de Temperatura,1.8,flh327,Falha por Vibração Excedente,2023-02-03,Perda de pressão no componente,tec327,Carlos Silva,prc327,Resfriamento do Equipamento
+eqp328,Compressor de Ar,cmp328,Engrenagem,sns328,Sensor de Vibração,0.88,flh328,Falha por Vibração Excedente,2025-03-09,Temperatura acima do limite,tec328,Carlos Silva,prc328,Vedação da Válvula
+eqp329,Bomba Hidráulica,cmp329,Engrenagem,sns329,Sensor de Vibração,0.84,flh329,Superaquecimento,2024-12-16,Excesso de vibração detectado,tec329,João Pereira,prc329,Troca de Rolamento
+eqp330,Compressor de Ar,cmp330,Válvula de Pressão,sns330,Sensor de Vibração,0.63,flh330,Falha por Vibração Excedente,2024-05-24,Excesso de vibração detectado,tec330,Carlos Silva,prc330,Resfriamento do Equipamento
+eqp331,Motor Principal,cmp331,Engrenagem,sns331,Sensor de Pressão,1.4,flh331,Superaquecimento,2023-08-01,Temperatura acima do limite,tec331,João Pereira,prc331,Vedação da Válvula
+eqp332,Compressor de Ar,cmp332,Engrenagem,sns332,Sensor de Pressão,1.93,flh332,Superaquecimento,2023-04-03,Perda de pressão no componente,tec332,Ana Lima,prc332,Troca de Rolamento
+eqp333,Bomba Hidráulica,cmp333,Engrenagem,sns333,Sensor de Pressão,1.68,flh333,Falha por Vibração Excedente,2023-02-08,Temperatura acima do limite,tec333,Carlos Silva,prc333,Troca de Rolamento
+eqp334,Bomba Hidráulica,cmp334,Engrenagem,sns334,Sensor de Pressão,1.73,flh334,Falha por Vibração Excedente,2024-03-26,Perda de pressão no componente,tec334,Ana Lima,prc334,Vedação da Válvula
+eqp335,Compressor de Ar,cmp335,Engrenagem,sns335,Sensor de Vibração,1.24,flh335,Superaquecimento,2025-01-11,Temperatura acima do limite,tec335,João Pereira,prc335,Troca de Rolamento
+eqp336,Compressor de Ar,cmp336,Rolamento Frontal,sns336,Sensor de Pressão,0.51,flh336,Superaquecimento,2024-12-01,Temperatura acima do limite,tec336,Ana Lima,prc336,Resfriamento do Equipamento
+eqp337,Compressor de Ar,cmp337,Rolamento Frontal,sns337,Sensor de Pressão,1.88,flh337,Vazamento de Pressão,2024-10-20,Perda de pressão no componente,tec337,Carlos Silva,prc337,Vedação da Válvula
+eqp338,Motor Principal,cmp338,Rolamento Frontal,sns338,Sensor de Vibração,0.99,flh338,Vazamento de Pressão,2025-01-15,Perda de pressão no componente,tec338,João Pereira,prc338,Resfriamento do Equipamento
+eqp339,Bomba Hidráulica,cmp339,Engrenagem,sns339,Sensor de Pressão,0.77,flh339,Falha por Vibração Excedente,2024-06-25,Temperatura acima do limite,tec339,João Pereira,prc339,Troca de Rolamento
+eqp340,Motor Principal,cmp340,Válvula de Pressão,sns340,Sensor de Temperatura,1.37,flh340,Vazamento de Pressão,2024-07-16,Excesso de vibração detectado,tec340,Ana Lima,prc340,Vedação da Válvula
+eqp341,Compressor de Ar,cmp341,Engrenagem,sns341,Sensor de Pressão,1.45,flh341,Superaquecimento,2024-11-03,Temperatura acima do limite,tec341,Ana Lima,prc341,Resfriamento do Equipamento
+eqp342,Bomba Hidráulica,cmp342,Engrenagem,sns342,Sensor de Pressão,1.95,flh342,Falha por Vibração Excedente,2024-08-23,Excesso de vibração detectado,tec342,Ana Lima,prc342,Troca de Rolamento
+eqp343,Compressor de Ar,cmp343,Engrenagem,sns343,Sensor de Temperatura,1.05,flh343,Superaquecimento,2023-07-22,Temperatura acima do limite,tec343,João Pereira,prc343,Vedação da Válvula
+eqp344,Compressor de Ar,cmp344,Rolamento Frontal,sns344,Sensor de Pressão,1.55,flh344,Vazamento de Pressão,2024-07-13,Excesso de vibração detectado,tec344,Carlos Silva,prc344,Troca de Rolamento
+eqp345,Motor Principal,cmp345,Engrenagem,sns345,Sensor de Vibração,0.67,flh345,Superaquecimento,2023-02-19,Temperatura acima do limite,tec345,João Pereira,prc345,Resfriamento do Equipamento
+eqp346,Bomba Hidráulica,cmp346,Rolamento Frontal,sns346,Sensor de Temperatura,0.74,flh346,Falha por Vibração Excedente,2023-11-28,Excesso de vibração detectado,tec346,Ana Lima,prc346,Troca de Rolamento
+eqp347,Compressor de Ar,cmp347,Rolamento Frontal,sns347,Sensor de Temperatura,1.64,flh347,Vazamento de Pressão,2024-12-09,Excesso de vibração detectado,tec347,João Pereira,prc347,Resfriamento do Equipamento
+eqp348,Compressor de Ar,cmp348,Válvula de Pressão,sns348,Sensor de Vibração,1.34,flh348,Vazamento de Pressão,2024-08-15,Temperatura acima do limite,tec348,Carlos Silva,prc348,Resfriamento do Equipamento
+eqp349,Bomba Hidráulica,cmp349,Rolamento Frontal,sns349,Sensor de Vibração,1.15,flh349,Superaquecimento,2024-08-14,Excesso de vibração detectado,tec349,Ana Lima,prc349,Resfriamento do Equipamento
+eqp350,Compressor de Ar,cmp350,Engrenagem,sns350,Sensor de Pressão,1.91,flh350,Falha por Vibração Excedente,2024-03-04,Excesso de vibração detectado,tec350,Carlos Silva,prc350,Resfriamento do Equipamento
+eqp351,Compressor de Ar,cmp351,Válvula de Pressão,sns351,Sensor de Pressão,0.94,flh351,Vazamento de Pressão,2024-12-23,Perda de pressão no componente,tec351,João Pereira,prc351,Vedação da Válvula
+eqp352,Compressor de Ar,cmp352,Rolamento Frontal,sns352,Sensor de Pressão,1.36,flh352,Falha por Vibração Excedente,2023-03-11,Perda de pressão no componente,tec352,Ana Lima,prc352,Troca de Rolamento
+eqp353,Bomba Hidráulica,cmp353,Engrenagem,sns353,Sensor de Pressão,0.51,flh353,Falha por Vibração Excedente,2023-09-29,Excesso de vibração detectado,tec353,Carlos Silva,prc353,Vedação da Válvula
+eqp354,Motor Principal,cmp354,Válvula de Pressão,sns354,Sensor de Temperatura,1.41,flh354,Falha por Vibração Excedente,2024-01-31,Temperatura acima do limite,tec354,Ana Lima,prc354,Vedação da Válvula
+eqp355,Compressor de Ar,cmp355,Engrenagem,sns355,Sensor de Vibração,0.91,flh355,Vazamento de Pressão,2023-10-24,Perda de pressão no componente,tec355,Ana Lima,prc355,Troca de Rolamento
+eqp356,Compressor de Ar,cmp356,Válvula de Pressão,sns356,Sensor de Vibração,1.23,flh356,Vazamento de Pressão,2024-08-19,Temperatura acima do limite,tec356,Carlos Silva,prc356,Vedação da Válvula
+eqp357,Bomba Hidráulica,cmp357,Engrenagem,sns357,Sensor de Temperatura,0.98,flh357,Vazamento de Pressão,2025-02-04,Perda de pressão no componente,tec357,Ana Lima,prc357,Troca de Rolamento
+eqp358,Bomba Hidráulica,cmp358,Engrenagem,sns358,Sensor de Pressão,1.93,flh358,Superaquecimento,2023-02-24,Perda de pressão no componente,tec358,João Pereira,prc358,Resfriamento do Equipamento
+eqp359,Compressor de Ar,cmp359,Rolamento Frontal,sns359,Sensor de Temperatura,1.68,flh359,Falha por Vibração Excedente,2023-03-05,Perda de pressão no componente,tec359,Carlos Silva,prc359,Vedação da Válvula
+eqp360,Bomba Hidráulica,cmp360,Engrenagem,sns360,Sensor de Pressão,1.47,flh360,Superaquecimento,2024-10-23,Perda de pressão no componente,tec360,João Pereira,prc360,Vedação da Válvula
+eqp361,Motor Principal,cmp361,Válvula de Pressão,sns361,Sensor de Vibração,0.52,flh361,Vazamento de Pressão,2023-12-02,Excesso de vibração detectado,tec361,Carlos Silva,prc361,Troca de Rolamento
+eqp362,Motor Principal,cmp362,Rolamento Frontal,sns362,Sensor de Vibração,1.68,flh362,Superaquecimento,2025-02-23,Excesso de vibração detectado,tec362,Ana Lima,prc362,Vedação da Válvula
+eqp363,Compressor de Ar,cmp363,Engrenagem,sns363,Sensor de Vibração,1.72,flh363,Falha por Vibração Excedente,2025-03-28,Temperatura acima do limite,tec363,Ana Lima,prc363,Resfriamento do Equipamento
+eqp364,Compressor de Ar,cmp364,Válvula de Pressão,sns364,Sensor de Vibração,1.33,flh364,Superaquecimento,2025-02-14,Temperatura acima do limite,tec364,Carlos Silva,prc364,Resfriamento do Equipamento
+eqp365,Motor Principal,cmp365,Rolamento Frontal,sns365,Sensor de Temperatura,1.46,flh365,Vazamento de Pressão,2024-08-14,Excesso de vibração detectado,tec365,Ana Lima,prc365,Resfriamento do Equipamento
+eqp366,Bomba Hidráulica,cmp366,Rolamento Frontal,sns366,Sensor de Temperatura,0.88,flh366,Superaquecimento,2023-03-19,Perda de pressão no componente,tec366,Ana Lima,prc366,Resfriamento do Equipamento
+eqp367,Bomba Hidráulica,cmp367,Rolamento Frontal,sns367,Sensor de Pressão,1.9,flh367,Superaquecimento,2024-01-06,Temperatura acima do limite,tec367,Carlos Silva,prc367,Resfriamento do Equipamento
+eqp368,Compressor de Ar,cmp368,Válvula de Pressão,sns368,Sensor de Temperatura,1.31,flh368,Superaquecimento,2023-08-17,Perda de pressão no componente,tec368,João Pereira,prc368,Troca de Rolamento
+eqp369,Motor Principal,cmp369,Engrenagem,sns369,Sensor de Temperatura,1.64,flh369,Superaquecimento,2024-06-17,Excesso de vibração detectado,tec369,Ana Lima,prc369,Troca de Rolamento
+eqp370,Motor Principal,cmp370,Engrenagem,sns370,Sensor de Temperatura,1.22,flh370,Superaquecimento,2025-02-05,Perda de pressão no componente,tec370,Ana Lima,prc370,Troca de Rolamento
+eqp371,Compressor de Ar,cmp371,Válvula de Pressão,sns371,Sensor de Vibração,1.44,flh371,Vazamento de Pressão,2025-01-11,Excesso de vibração detectado,tec371,João Pereira,prc371,Vedação da Válvula
+eqp372,Motor Principal,cmp372,Rolamento Frontal,sns372,Sensor de Temperatura,1.99,flh372,Vazamento de Pressão,2023-05-04,Perda de pressão no componente,tec372,Ana Lima,prc372,Vedação da Válvula
+eqp373,Motor Principal,cmp373,Válvula de Pressão,sns373,Sensor de Pressão,1.29,flh373,Superaquecimento,2023-05-08,Excesso de vibração detectado,tec373,Ana Lima,prc373,Vedação da Válvula
+eqp374,Motor Principal,cmp374,Válvula de Pressão,sns374,Sensor de Pressão,1.15,flh374,Vazamento de Pressão,2024-01-02,Perda de pressão no componente,tec374,João Pereira,prc374,Troca de Rolamento
+eqp375,Motor Principal,cmp375,Rolamento Frontal,sns375,Sensor de Pressão,0.77,flh375,Superaquecimento,2023-12-19,Perda de pressão no componente,tec375,Carlos Silva,prc375,Vedação da Válvula
+eqp376,Compressor de Ar,cmp376,Engrenagem,sns376,Sensor de Vibração,1.79,flh376,Vazamento de Pressão,2023-08-06,Temperatura acima do limite,tec376,Ana Lima,prc376,Troca de Rolamento
+eqp377,Compressor de Ar,cmp377,Engrenagem,sns377,Sensor de Pressão,0.81,flh377,Vazamento de Pressão,2023-11-19,Perda de pressão no componente,tec377,Carlos Silva,prc377,Troca de Rolamento
+eqp378,Bomba Hidráulica,cmp378,Rolamento Frontal,sns378,Sensor de Temperatura,1.61,flh378,Vazamento de Pressão,2024-07-22,Temperatura acima do limite,tec378,Carlos Silva,prc378,Vedação da Válvula
+eqp379,Compressor de Ar,cmp379,Rolamento Frontal,sns379,Sensor de Pressão,1.15,flh379,Superaquecimento,2025-03-02,Temperatura acima do limite,tec379,Ana Lima,prc379,Troca de Rolamento
+eqp380,Compressor de Ar,cmp380,Rolamento Frontal,sns380,Sensor de Temperatura,1.8,flh380,Falha por Vibração Excedente,2024-11-28,Excesso de vibração detectado,tec380,Carlos Silva,prc380,Resfriamento do Equipamento
+eqp381,Bomba Hidráulica,cmp381,Rolamento Frontal,sns381,Sensor de Pressão,0.74,flh381,Superaquecimento,2024-05-06,Excesso de vibração detectado,tec381,Carlos Silva,prc381,Troca de Rolamento
+eqp382,Compressor de Ar,cmp382,Válvula de Pressão,sns382,Sensor de Pressão,0.64,flh382,Vazamento de Pressão,2023-09-19,Temperatura acima do limite,tec382,Ana Lima,prc382,Troca de Rolamento
+eqp383,Bomba Hidráulica,cmp383,Engrenagem,sns383,Sensor de Temperatura,1.45,flh383,Vazamento de Pressão,2024-04-05,Temperatura acima do limite,tec383,João Pereira,prc383,Resfriamento do Equipamento
+eqp384,Compressor de Ar,cmp384,Válvula de Pressão,sns384,Sensor de Vibração,1.54,flh384,Falha por Vibração Excedente,2024-06-07,Temperatura acima do limite,tec384,Ana Lima,prc384,Resfriamento do Equipamento
+eqp385,Bomba Hidráulica,cmp385,Válvula de Pressão,sns385,Sensor de Pressão,1.73,flh385,Superaquecimento,2024-12-21,Perda de pressão no componente,tec385,Carlos Silva,prc385,Resfriamento do Equipamento
+eqp386,Bomba Hidráulica,cmp386,Rolamento Frontal,sns386,Sensor de Vibração,1.86,flh386,Falha por Vibração Excedente,2023-03-22,Temperatura acima do limite,tec386,Carlos Silva,prc386,Resfriamento do Equipamento
+eqp387,Motor Principal,cmp387,Rolamento Frontal,sns387,Sensor de Vibração,1.61,flh387,Vazamento de Pressão,2023-01-04,Perda de pressão no componente,tec387,Ana Lima,prc387,Vedação da Válvula
+eqp388,Bomba Hidráulica,cmp388,Rolamento Frontal,sns388,Sensor de Vibração,0.87,flh388,Falha por Vibração Excedente,2024-06-17,Temperatura acima do limite,tec388,João Pereira,prc388,Troca de Rolamento
+eqp389,Motor Principal,cmp389,Válvula de Pressão,sns389,Sensor de Vibração,0.82,flh389,Superaquecimento,2023-04-10,Perda de pressão no componente,tec389,Ana Lima,prc389,Troca de Rolamento
+eqp390,Motor Principal,cmp390,Válvula de Pressão,sns390,Sensor de Temperatura,1.25,flh390,Falha por Vibração Excedente,2024-06-20,Temperatura acima do limite,tec390,João Pereira,prc390,Troca de Rolamento
+eqp391,Bomba Hidráulica,cmp391,Válvula de Pressão,sns391,Sensor de Vibração,1.82,flh391,Superaquecimento,2023-08-02,Temperatura acima do limite,tec391,Carlos Silva,prc391,Vedação da Válvula
+eqp392,Bomba Hidráulica,cmp392,Válvula de Pressão,sns392,Sensor de Vibração,1.19,flh392,Superaquecimento,2024-09-15,Temperatura acima do limite,tec392,João Pereira,prc392,Resfriamento do Equipamento
+eqp393,Compressor de Ar,cmp393,Engrenagem,sns393,Sensor de Vibração,1.48,flh393,Vazamento de Pressão,2024-08-09,Temperatura acima do limite,tec393,Ana Lima,prc393,Troca de Rolamento
+eqp394,Bomba Hidráulica,cmp394,Engrenagem,sns394,Sensor de Vibração,1.42,flh394,Vazamento de Pressão,2025-02-10,Excesso de vibração detectado,tec394,Ana Lima,prc394,Troca de Rolamento
+eqp395,Motor Principal,cmp395,Rolamento Frontal,sns395,Sensor de Pressão,1.66,flh395,Falha por Vibração Excedente,2024-11-07,Excesso de vibração detectado,tec395,Carlos Silva,prc395,Troca de Rolamento
+eqp396,Compressor de Ar,cmp396,Rolamento Frontal,sns396,Sensor de Temperatura,0.81,flh396,Superaquecimento,2025-03-06,Perda de pressão no componente,tec396,Ana Lima,prc396,Vedação da Válvula
+eqp397,Compressor de Ar,cmp397,Rolamento Frontal,sns397,Sensor de Vibração,1.9,flh397,Superaquecimento,2024-09-13,Excesso de vibração detectado,tec397,Carlos Silva,prc397,Troca de Rolamento
+eqp398,Bomba Hidráulica,cmp398,Válvula de Pressão,sns398,Sensor de Pressão,1.0,flh398,Falha por Vibração Excedente,2024-09-25,Excesso de vibração detectado,tec398,Ana Lima,prc398,Vedação da Válvula
+eqp399,Motor Principal,cmp399,Engrenagem,sns399,Sensor de Pressão,0.92,flh399,Superaquecimento,2024-08-25,Temperatura acima do limite,tec399,João Pereira,prc399,Troca de Rolamento
+eqp400,Bomba Hidráulica,cmp400,Válvula de Pressão,sns400,Sensor de Temperatura,1.16,flh400,Superaquecimento,2024-05-28,Perda de pressão no componente,tec400,Carlos Silva,prc400,Resfriamento do Equipamento
+eqp401,Motor Principal,cmp401,Engrenagem,sns401,Sensor de Temperatura,1.27,flh401,Vazamento de Pressão,2024-12-08,Excesso de vibração detectado,tec401,Carlos Silva,prc401,Troca de Rolamento
+eqp402,Bomba Hidráulica,cmp402,Válvula de Pressão,sns402,Sensor de Vibração,0.66,flh402,Falha por Vibração Excedente,2023-03-25,Perda de pressão no componente,tec402,Carlos Silva,prc402,Resfriamento do Equipamento
+eqp403,Bomba Hidráulica,cmp403,Válvula de Pressão,sns403,Sensor de Vibração,1.04,flh403,Falha por Vibração Excedente,2023-03-24,Excesso de vibração detectado,tec403,Ana Lima,prc403,Resfriamento do Equipamento
+eqp404,Bomba Hidráulica,cmp404,Válvula de Pressão,sns404,Sensor de Vibração,1.4,flh404,Superaquecimento,2024-02-02,Excesso de vibração detectado,tec404,Ana Lima,prc404,Resfriamento do Equipamento
+eqp405,Compressor de Ar,cmp405,Engrenagem,sns405,Sensor de Temperatura,1.32,flh405,Vazamento de Pressão,2023-01-14,Perda de pressão no componente,tec405,Ana Lima,prc405,Troca de Rolamento
+eqp406,Compressor de Ar,cmp406,Rolamento Frontal,sns406,Sensor de Vibração,0.85,flh406,Superaquecimento,2024-02-03,Excesso de vibração detectado,tec406,Ana Lima,prc406,Vedação da Válvula
+eqp407,Bomba Hidráulica,cmp407,Engrenagem,sns407,Sensor de Temperatura,1.3,flh407,Vazamento de Pressão,2023-11-05,Temperatura acima do limite,tec407,Ana Lima,prc407,Vedação da Válvula
+eqp408,Bomba Hidráulica,cmp408,Engrenagem,sns408,Sensor de Temperatura,1.99,flh408,Vazamento de Pressão,2024-06-16,Perda de pressão no componente,tec408,Carlos Silva,prc408,Vedação da Válvula
+eqp409,Compressor de Ar,cmp409,Válvula de Pressão,sns409,Sensor de Pressão,1.9,flh409,Superaquecimento,2025-02-17,Perda de pressão no componente,tec409,Ana Lima,prc409,Vedação da Válvula
+eqp410,Compressor de Ar,cmp410,Engrenagem,sns410,Sensor de Vibração,1.45,flh410,Superaquecimento,2023-07-17,Excesso de vibração detectado,tec410,João Pereira,prc410,Troca de Rolamento
+eqp411,Motor Principal,cmp411,Rolamento Frontal,sns411,Sensor de Vibração,0.57,flh411,Falha por Vibração Excedente,2025-01-23,Temperatura acima do limite,tec411,Ana Lima,prc411,Troca de Rolamento
+eqp412,Bomba Hidráulica,cmp412,Rolamento Frontal,sns412,Sensor de Temperatura,1.13,flh412,Superaquecimento,2023-04-11,Excesso de vibração detectado,tec412,Carlos Silva,prc412,Vedação da Válvula
+eqp413,Compressor de Ar,cmp413,Rolamento Frontal,sns413,Sensor de Pressão,1.22,flh413,Superaquecimento,2023-01-10,Perda de pressão no componente,tec413,João Pereira,prc413,Vedação da Válvula
+eqp414,Motor Principal,cmp414,Rolamento Frontal,sns414,Sensor de Temperatura,1.81,flh414,Vazamento de Pressão,2025-01-08,Excesso de vibração detectado,tec414,João Pereira,prc414,Vedação da Válvula
+eqp415,Motor Principal,cmp415,Rolamento Frontal,sns415,Sensor de Vibração,1.9,flh415,Superaquecimento,2024-10-28,Excesso de vibração detectado,tec415,João Pereira,prc415,Vedação da Válvula
+eqp416,Compressor de Ar,cmp416,Engrenagem,sns416,Sensor de Temperatura,1.59,flh416,Vazamento de Pressão,2024-12-29,Temperatura acima do limite,tec416,Carlos Silva,prc416,Troca de Rolamento
+eqp417,Compressor de Ar,cmp417,Rolamento Frontal,sns417,Sensor de Vibração,1.53,flh417,Falha por Vibração Excedente,2023-02-02,Perda de pressão no componente,tec417,João Pereira,prc417,Troca de Rolamento
+eqp418,Motor Principal,cmp418,Engrenagem,sns418,Sensor de Vibração,0.97,flh418,Falha por Vibração Excedente,2024-01-08,Excesso de vibração detectado,tec418,João Pereira,prc418,Vedação da Válvula
+eqp419,Motor Principal,cmp419,Rolamento Frontal,sns419,Sensor de Pressão,1.16,flh419,Vazamento de Pressão,2023-04-20,Excesso de vibração detectado,tec419,João Pereira,prc419,Resfriamento do Equipamento
+eqp420,Bomba Hidráulica,cmp420,Válvula de Pressão,sns420,Sensor de Pressão,0.72,flh420,Falha por Vibração Excedente,2024-01-01,Temperatura acima do limite,tec420,Ana Lima,prc420,Troca de Rolamento
+eqp421,Bomba Hidráulica,cmp421,Engrenagem,sns421,Sensor de Temperatura,1.48,flh421,Vazamento de Pressão,2023-07-06,Excesso de vibração detectado,tec421,Ana Lima,prc421,Vedação da Válvula
+eqp422,Motor Principal,cmp422,Válvula de Pressão,sns422,Sensor de Temperatura,0.92,flh422,Superaquecimento,2023-02-14,Excesso de vibração detectado,tec422,Carlos Silva,prc422,Troca de Rolamento
+eqp423,Bomba Hidráulica,cmp423,Rolamento Frontal,sns423,Sensor de Vibração,0.98,flh423,Vazamento de Pressão,2023-03-24,Perda de pressão no componente,tec423,Ana Lima,prc423,Resfriamento do Equipamento
+eqp424,Bomba Hidráulica,cmp424,Engrenagem,sns424,Sensor de Temperatura,1.96,flh424,Vazamento de Pressão,2024-05-07,Excesso de vibração detectado,tec424,João Pereira,prc424,Troca de Rolamento
+eqp425,Bomba Hidráulica,cmp425,Engrenagem,sns425,Sensor de Temperatura,1.34,flh425,Superaquecimento,2025-03-09,Excesso de vibração detectado,tec425,Ana Lima,prc425,Troca de Rolamento
+eqp426,Bomba Hidráulica,cmp426,Rolamento Frontal,sns426,Sensor de Pressão,1.49,flh426,Falha por Vibração Excedente,2023-11-08,Temperatura acima do limite,tec426,João Pereira,prc426,Vedação da Válvula
+eqp427,Compressor de Ar,cmp427,Engrenagem,sns427,Sensor de Temperatura,0.8,flh427,Superaquecimento,2025-01-24,Perda de pressão no componente,tec427,Carlos Silva,prc427,Resfriamento do Equipamento
+eqp428,Bomba Hidráulica,cmp428,Engrenagem,sns428,Sensor de Vibração,1.56,flh428,Vazamento de Pressão,2023-08-01,Excesso de vibração detectado,tec428,Carlos Silva,prc428,Vedação da Válvula
+eqp429,Motor Principal,cmp429,Rolamento Frontal,sns429,Sensor de Vibração,1.7,flh429,Falha por Vibração Excedente,2024-08-18,Perda de pressão no componente,tec429,João Pereira,prc429,Vedação da Válvula
+eqp430,Bomba Hidráulica,cmp430,Rolamento Frontal,sns430,Sensor de Pressão,1.41,flh430,Superaquecimento,2024-01-25,Excesso de vibração detectado,tec430,Carlos Silva,prc430,Troca de Rolamento
+eqp431,Motor Principal,cmp431,Engrenagem,sns431,Sensor de Pressão,1.4,flh431,Vazamento de Pressão,2024-08-20,Perda de pressão no componente,tec431,Ana Lima,prc431,Resfriamento do Equipamento
+eqp432,Compressor de Ar,cmp432,Rolamento Frontal,sns432,Sensor de Temperatura,1.77,flh432,Vazamento de Pressão,2023-06-01,Excesso de vibração detectado,tec432,João Pereira,prc432,Vedação da Válvula
+eqp433,Bomba Hidráulica,cmp433,Válvula de Pressão,sns433,Sensor de Vibração,1.21,flh433,Vazamento de Pressão,2023-07-21,Perda de pressão no componente,tec433,Carlos Silva,prc433,Resfriamento do Equipamento
+eqp434,Compressor de Ar,cmp434,Engrenagem,sns434,Sensor de Vibração,1.96,flh434,Vazamento de Pressão,2024-06-01,Perda de pressão no componente,tec434,Carlos Silva,prc434,Troca de Rolamento
+eqp435,Bomba Hidráulica,cmp435,Válvula de Pressão,sns435,Sensor de Pressão,0.73,flh435,Superaquecimento,2024-09-13,Excesso de vibração detectado,tec435,Ana Lima,prc435,Vedação da Válvula
+eqp436,Motor Principal,cmp436,Engrenagem,sns436,Sensor de Vibração,1.65,flh436,Vazamento de Pressão,2023-04-07,Perda de pressão no componente,tec436,Carlos Silva,prc436,Vedação da Válvula
+eqp437,Bomba Hidráulica,cmp437,Engrenagem,sns437,Sensor de Temperatura,1.31,flh437,Superaquecimento,2024-10-04,Temperatura acima do limite,tec437,Ana Lima,prc437,Vedação da Válvula
+eqp438,Compressor de Ar,cmp438,Engrenagem,sns438,Sensor de Pressão,0.78,flh438,Superaquecimento,2023-12-24,Excesso de vibração detectado,tec438,Carlos Silva,prc438,Resfriamento do Equipamento
+eqp439,Motor Principal,cmp439,Engrenagem,sns439,Sensor de Temperatura,0.79,flh439,Superaquecimento,2023-01-13,Perda de pressão no componente,tec439,João Pereira,prc439,Resfriamento do Equipamento
+eqp440,Motor Principal,cmp440,Rolamento Frontal,sns440,Sensor de Pressão,1.22,flh440,Falha por Vibração Excedente,2024-09-30,Excesso de vibração detectado,tec440,Ana Lima,prc440,Troca de Rolamento
+eqp441,Motor Principal,cmp441,Rolamento Frontal,sns441,Sensor de Vibração,1.79,flh441,Superaquecimento,2023-01-19,Excesso de vibração detectado,tec441,João Pereira,prc441,Resfriamento do Equipamento
+eqp442,Compressor de Ar,cmp442,Engrenagem,sns442,Sensor de Temperatura,1.79,flh442,Superaquecimento,2023-01-03,Temperatura acima do limite,tec442,Carlos Silva,prc442,Resfriamento do Equipamento
+eqp443,Compressor de Ar,cmp443,Engrenagem,sns443,Sensor de Vibração,1.4,flh443,Superaquecimento,2023-09-10,Perda de pressão no componente,tec443,Ana Lima,prc443,Vedação da Válvula
+eqp444,Bomba Hidráulica,cmp444,Engrenagem,sns444,Sensor de Vibração,0.99,flh444,Superaquecimento,2024-04-10,Temperatura acima do limite,tec444,Ana Lima,prc444,Troca de Rolamento
+eqp445,Compressor de Ar,cmp445,Engrenagem,sns445,Sensor de Pressão,1.62,flh445,Vazamento de Pressão,2023-10-31,Excesso de vibração detectado,tec445,Carlos Silva,prc445,Vedação da Válvula
+eqp446,Motor Principal,cmp446,Válvula de Pressão,sns446,Sensor de Temperatura,0.78,flh446,Falha por Vibração Excedente,2025-01-31,Excesso de vibração detectado,tec446,Carlos Silva,prc446,Troca de Rolamento
+eqp447,Motor Principal,cmp447,Rolamento Frontal,sns447,Sensor de Pressão,0.65,flh447,Vazamento de Pressão,2023-11-20,Temperatura acima do limite,tec447,João Pereira,prc447,Vedação da Válvula
+eqp448,Bomba Hidráulica,cmp448,Válvula de Pressão,sns448,Sensor de Pressão,0.79,flh448,Superaquecimento,2023-11-24,Perda de pressão no componente,tec448,Ana Lima,prc448,Troca de Rolamento
+eqp449,Compressor de Ar,cmp449,Engrenagem,sns449,Sensor de Vibração,1.1,flh449,Superaquecimento,2024-12-29,Perda de pressão no componente,tec449,Ana Lima,prc449,Troca de Rolamento
+eqp450,Compressor de Ar,cmp450,Rolamento Frontal,sns450,Sensor de Temperatura,0.7,flh450,Falha por Vibração Excedente,2024-02-12,Excesso de vibração detectado,tec450,Carlos Silva,prc450,Vedação da Válvula
+eqp451,Bomba Hidráulica,cmp451,Rolamento Frontal,sns451,Sensor de Pressão,1.66,flh451,Vazamento de Pressão,2023-01-29,Excesso de vibração detectado,tec451,Ana Lima,prc451,Resfriamento do Equipamento
+eqp452,Motor Principal,cmp452,Engrenagem,sns452,Sensor de Vibração,1.41,flh452,Vazamento de Pressão,2023-04-17,Perda de pressão no componente,tec452,João Pereira,prc452,Troca de Rolamento
+eqp453,Motor Principal,cmp453,Engrenagem,sns453,Sensor de Pressão,1.84,flh453,Falha por Vibração Excedente,2024-05-02,Temperatura acima do limite,tec453,João Pereira,prc453,Resfriamento do Equipamento
+eqp454,Bomba Hidráulica,cmp454,Rolamento Frontal,sns454,Sensor de Vibração,1.63,flh454,Vazamento de Pressão,2023-05-28,Excesso de vibração detectado,tec454,João Pereira,prc454,Troca de Rolamento
+eqp455,Bomba Hidráulica,cmp455,Rolamento Frontal,sns455,Sensor de Pressão,1.57,flh455,Vazamento de Pressão,2024-12-07,Excesso de vibração detectado,tec455,Carlos Silva,prc455,Vedação da Válvula
+eqp456,Motor Principal,cmp456,Engrenagem,sns456,Sensor de Temperatura,1.74,flh456,Superaquecimento,2025-01-29,Perda de pressão no componente,tec456,João Pereira,prc456,Resfriamento do Equipamento
+eqp457,Compressor de Ar,cmp457,Rolamento Frontal,sns457,Sensor de Vibração,1.86,flh457,Falha por Vibração Excedente,2024-03-05,Temperatura acima do limite,tec457,Ana Lima,prc457,Resfriamento do Equipamento
+eqp458,Bomba Hidráulica,cmp458,Rolamento Frontal,sns458,Sensor de Pressão,1.45,flh458,Vazamento de Pressão,2025-01-21,Excesso de vibração detectado,tec458,Ana Lima,prc458,Resfriamento do Equipamento
+eqp459,Bomba Hidráulica,cmp459,Engrenagem,sns459,Sensor de Temperatura,0.61,flh459,Superaquecimento,2025-03-09,Perda de pressão no componente,tec459,Carlos Silva,prc459,Troca de Rolamento
+eqp460,Motor Principal,cmp460,Válvula de Pressão,sns460,Sensor de Pressão,1.24,flh460,Vazamento de Pressão,2024-10-20,Perda de pressão no componente,tec460,João Pereira,prc460,Vedação da Válvula
+eqp461,Compressor de Ar,cmp461,Rolamento Frontal,sns461,Sensor de Vibração,0.93,flh461,Vazamento de Pressão,2023-12-03,Temperatura acima do limite,tec461,João Pereira,prc461,Vedação da Válvula
+eqp462,Bomba Hidráulica,cmp462,Engrenagem,sns462,Sensor de Pressão,0.65,flh462,Falha por Vibração Excedente,2023-03-21,Perda de pressão no componente,tec462,João Pereira,prc462,Troca de Rolamento
+eqp463,Motor Principal,cmp463,Rolamento Frontal,sns463,Sensor de Temperatura,0.55,flh463,Falha por Vibração Excedente,2024-01-24,Excesso de vibração detectado,tec463,Ana Lima,prc463,Troca de Rolamento
+eqp464,Bomba Hidráulica,cmp464,Válvula de Pressão,sns464,Sensor de Pressão,0.76,flh464,Falha por Vibração Excedente,2025-01-21,Temperatura acima do limite,tec464,Ana Lima,prc464,Resfriamento do Equipamento
+eqp465,Motor Principal,cmp465,Rolamento Frontal,sns465,Sensor de Pressão,1.91,flh465,Falha por Vibração Excedente,2025-01-06,Temperatura acima do limite,tec465,João Pereira,prc465,Resfriamento do Equipamento
+eqp466,Motor Principal,cmp466,Engrenagem,sns466,Sensor de Temperatura,0.73,flh466,Falha por Vibração Excedente,2024-07-06,Excesso de vibração detectado,tec466,Carlos Silva,prc466,Troca de Rolamento
+eqp467,Motor Principal,cmp467,Engrenagem,sns467,Sensor de Temperatura,0.65,flh467,Falha por Vibração Excedente,2024-10-31,Perda de pressão no componente,tec467,Carlos Silva,prc467,Vedação da Válvula
+eqp468,Compressor de Ar,cmp468,Engrenagem,sns468,Sensor de Temperatura,0.6,flh468,Superaquecimento,2023-09-26,Temperatura acima do limite,tec468,Ana Lima,prc468,Troca de Rolamento
+eqp469,Motor Principal,cmp469,Rolamento Frontal,sns469,Sensor de Temperatura,1.3,flh469,Superaquecimento,2024-10-31,Perda de pressão no componente,tec469,João Pereira,prc469,Resfriamento do Equipamento
+eqp470,Bomba Hidráulica,cmp470,Válvula de Pressão,sns470,Sensor de Pressão,1.02,flh470,Vazamento de Pressão,2023-05-24,Perda de pressão no componente,tec470,João Pereira,prc470,Vedação da Válvula
+eqp471,Bomba Hidráulica,cmp471,Válvula de Pressão,sns471,Sensor de Vibração,1.79,flh471,Falha por Vibração Excedente,2024-08-24,Perda de pressão no componente,tec471,Ana Lima,prc471,Troca de Rolamento
+eqp472,Motor Principal,cmp472,Válvula de Pressão,sns472,Sensor de Vibração,1.1,flh472,Falha por Vibração Excedente,2023-10-08,Perda de pressão no componente,tec472,Ana Lima,prc472,Resfriamento do Equipamento
+eqp473,Bomba Hidráulica,cmp473,Válvula de Pressão,sns473,Sensor de Pressão,1.78,flh473,Vazamento de Pressão,2023-09-18,Perda de pressão no componente,tec473,João Pereira,prc473,Troca de Rolamento
+eqp474,Compressor de Ar,cmp474,Engrenagem,sns474,Sensor de Temperatura,1.59,flh474,Superaquecimento,2023-02-12,Excesso de vibração detectado,tec474,João Pereira,prc474,Vedação da Válvula
+eqp475,Compressor de Ar,cmp475,Válvula de Pressão,sns475,Sensor de Pressão,1.73,flh475,Superaquecimento,2024-01-05,Excesso de vibração detectado,tec475,Carlos Silva,prc475,Resfriamento do Equipamento
+eqp476,Motor Principal,cmp476,Válvula de Pressão,sns476,Sensor de Pressão,0.61,flh476,Superaquecimento,2023-03-24,Perda de pressão no componente,tec476,Carlos Silva,prc476,Vedação da Válvula
+eqp477,Motor Principal,cmp477,Válvula de Pressão,sns477,Sensor de Vibração,1.02,flh477,Superaquecimento,2024-07-26,Excesso de vibração detectado,tec477,Ana Lima,prc477,Troca de Rolamento
+eqp478,Compressor de Ar,cmp478,Válvula de Pressão,sns478,Sensor de Temperatura,1.22,flh478,Vazamento de Pressão,2024-02-16,Excesso de vibração detectado,tec478,Carlos Silva,prc478,Resfriamento do Equipamento
+eqp479,Motor Principal,cmp479,Engrenagem,sns479,Sensor de Temperatura,1.36,flh479,Superaquecimento,2023-07-24,Perda de pressão no componente,tec479,João Pereira,prc479,Troca de Rolamento
+eqp480,Compressor de Ar,cmp480,Rolamento Frontal,sns480,Sensor de Vibração,1.54,flh480,Vazamento de Pressão,2024-06-07,Excesso de vibração detectado,tec480,João Pereira,prc480,Vedação da Válvula
+eqp481,Bomba Hidráulica,cmp481,Engrenagem,sns481,Sensor de Temperatura,0.68,flh481,Superaquecimento,2023-07-23,Perda de pressão no componente,tec481,João Pereira,prc481,Troca de Rolamento
+eqp482,Compressor de Ar,cmp482,Válvula de Pressão,sns482,Sensor de Temperatura,1.55,flh482,Vazamento de Pressão,2023-11-13,Excesso de vibração detectado,tec482,Ana Lima,prc482,Resfriamento do Equipamento
+eqp483,Motor Principal,cmp483,Rolamento Frontal,sns483,Sensor de Vibração,0.97,flh483,Vazamento de Pressão,2024-04-02,Excesso de vibração detectado,tec483,João Pereira,prc483,Vedação da Válvula
+eqp484,Compressor de Ar,cmp484,Rolamento Frontal,sns484,Sensor de Pressão,1.0,flh484,Superaquecimento,2024-03-18,Perda de pressão no componente,tec484,João Pereira,prc484,Troca de Rolamento
+eqp485,Motor Principal,cmp485,Rolamento Frontal,sns485,Sensor de Vibração,1.47,flh485,Vazamento de Pressão,2023-02-27,Perda de pressão no componente,tec485,Carlos Silva,prc485,Troca de Rolamento
+eqp486,Motor Principal,cmp486,Válvula de Pressão,sns486,Sensor de Temperatura,0.87,flh486,Falha por Vibração Excedente,2023-05-19,Temperatura acima do limite,tec486,Carlos Silva,prc486,Resfriamento do Equipamento
+eqp487,Compressor de Ar,cmp487,Rolamento Frontal,sns487,Sensor de Pressão,1.82,flh487,Superaquecimento,2025-01-24,Perda de pressão no componente,tec487,Ana Lima,prc487,Troca de Rolamento
+eqp488,Bomba Hidráulica,cmp488,Válvula de Pressão,sns488,Sensor de Temperatura,1.9,flh488,Superaquecimento,2025-02-22,Perda de pressão no componente,tec488,Ana Lima,prc488,Troca de Rolamento
+eqp489,Motor Principal,cmp489,Engrenagem,sns489,Sensor de Temperatura,1.2,flh489,Superaquecimento,2024-09-15,Excesso de vibração detectado,tec489,Carlos Silva,prc489,Resfriamento do Equipamento
+eqp490,Bomba Hidráulica,cmp490,Engrenagem,sns490,Sensor de Vibração,0.95,flh490,Vazamento de Pressão,2024-07-13,Temperatura acima do limite,tec490,João Pereira,prc490,Troca de Rolamento
+eqp491,Bomba Hidráulica,cmp491,Válvula de Pressão,sns491,Sensor de Pressão,0.65,flh491,Superaquecimento,2023-12-21,Perda de pressão no componente,tec491,Carlos Silva,prc491,Vedação da Válvula
+eqp492,Bomba Hidráulica,cmp492,Válvula de Pressão,sns492,Sensor de Pressão,0.52,flh492,Vazamento de Pressão,2024-01-10,Excesso de vibração detectado,tec492,João Pereira,prc492,Resfriamento do Equipamento
+eqp493,Bomba Hidráulica,cmp493,Rolamento Frontal,sns493,Sensor de Vibração,1.95,flh493,Falha por Vibração Excedente,2024-11-19,Perda de pressão no componente,tec493,Ana Lima,prc493,Troca de Rolamento
+eqp494,Compressor de Ar,cmp494,Rolamento Frontal,sns494,Sensor de Temperatura,0.59,flh494,Superaquecimento,2023-05-30,Temperatura acima do limite,tec494,Carlos Silva,prc494,Resfriamento do Equipamento
+eqp495,Bomba Hidráulica,cmp495,Rolamento Frontal,sns495,Sensor de Vibração,1.4,flh495,Vazamento de Pressão,2025-03-29,Perda de pressão no componente,tec495,João Pereira,prc495,Troca de Rolamento
+eqp496,Motor Principal,cmp496,Rolamento Frontal,sns496,Sensor de Pressão,1.78,flh496,Vazamento de Pressão,2023-09-11,Perda de pressão no componente,tec496,Ana Lima,prc496,Resfriamento do Equipamento
+eqp497,Compressor de Ar,cmp497,Engrenagem,sns497,Sensor de Pressão,0.9,flh497,Falha por Vibração Excedente,2024-08-09,Perda de pressão no componente,tec497,Ana Lima,prc497,Vedação da Válvula
+eqp498,Bomba Hidráulica,cmp498,Engrenagem,sns498,Sensor de Vibração,0.86,flh498,Falha por Vibração Excedente,2024-04-10,Perda de pressão no componente,tec498,Carlos Silva,prc498,Troca de Rolamento
+eqp499,Motor Principal,cmp499,Rolamento Frontal,sns499,Sensor de Vibração,0.63,flh499,Superaquecimento,2023-05-18,Excesso de vibração detectado,tec499,João Pereira,prc499,Vedação da Válvula
+eqp500,Bomba Hidráulica,cmp500,Rolamento Frontal,sns500,Sensor de Vibração,1.23,flh500,Falha por Vibração Excedente,2025-02-03,Temperatura acima do limite,tec500,Carlos Silva,prc500,Resfriamento do Equipamento
